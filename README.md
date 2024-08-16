@@ -47,24 +47,24 @@ Most languages exhibit certain georaphically distinctive features, which allow a
 In some cases, there is a distinctive *manner of articulation*. [Ejective](https://en.wikipedia.org/wiki/Ejective_consonant) and [implosive](https://en.wikipedia.org/wiki/Implosive_consonant) consonants constitute the glottalic consonants. There is also the issue of contrastive non-modal voicing of vowels. [Creaky-voiced](https://en.wikipedia.org/wiki/Creaky_voice) vowels are analysed as glottalic vowels. [Breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice#) is analysed as aspiration in consonants. A few langs, however, contrast two sets of vowels, modal voiced and breathy voiced.
 
 The articulatory modifications are typeable on the keyboard with the lower modifier key, ⴼ̥̊: 
-- [palatalization](https://en.wikipedia.org/wiki/Palatalization_(phonetics)): {◌ȷ} [◌ʲ]
-- [retroflex](https://en.wikipedia.org/wiki/Retroflex_consonant): {ɭ◌}
-- [velarization](https://en.wikipedia.org/wiki/Velarization): {◌̥} [◌ˠ], [◌ʶ], [◌ˤ]
-- [glottalization](https://en.wikipedia.org/wiki/Glottalic_consonant): {ſ◌} [◌ʼ]
-- [breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice): {◌ɿ} [◌̤][◌ʱ]
-- [clicks](https://en.wikipedia.org/wiki/Click_consonant): {◌̊} [ʘ], [ǀ], [!], [!!], [ǂ]
+- [Palatalization](https://en.wikipedia.org/wiki/Palatalization_(phonetics)): {◌ȷ} [◌ʲ]
+- [Retroflex](https://en.wikipedia.org/wiki/Retroflex_consonant): {ɭ◌}
+- [Velarization](https://en.wikipedia.org/wiki/Velarization): {◌̥} [◌ˠ], [◌ʶ], [◌ˤ]
+- [Glottalization](https://en.wikipedia.org/wiki/Glottalic_consonant): {ſ◌} [◌ʼ]
+- [Breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice): {◌ɿ} [◌̤][◌ʱ]
+- [Clicks](https://en.wikipedia.org/wiki/Click_consonant): {◌̊} [ʘ], [ǀ], [!], [!!], [ǂ]
 
 The first three modify the place of articulation. They practically never occur in one language, and since they are physiologically mutually exclusive (cannot be produced simultaneously in one phoneme) they are denoted using the lower box, while the latter two use the upper box. At most a language exhibits two articulatory modifications. Depending on the selected language one of these features is configured to first priority for the modifier key. The second modification could be typed with SHIFT and the third with AltGr or FN.
 ### Palatalization
-The most common and in some languages the only palatal consonant is the approximant {J} [j]. While the nasal approximant [ɲ] occurs very commonly as the only palatal consonant beside J [j] across all language families, it can be analyzed and represented also as a nasalized palatal approximant {J̃}. Other palatals are comparatively rarer. Beside the aforementioned, palatalization occurs among Romance langs as [ʎ], and as [c] and [ɟ] among Slavic, Uralic, Celtic langs and Albanian. Also common in Bantoid langs, Basque, Zhuang, and Jingpo. Polish and Russian palatalize all but two or three of their consonants. Denoted with a left hook below, ̡◌: {N}➝{Ɲ}.
+One of the most common phonemes in general, though in many languages the only palatal consonant is the approximant {J} [j]. While the nasal approximant [ɲ] occurs very commonly beside J [j] across all language families, it can be analyzed and represented also as a nasalized palatal approximant {J̃}. Other palatals are comparatively rarer. Ina addition to the aforementioned, palatalization occurs among Romance langs as [ʎ], and as [c] and [ɟ] among Slavic, Uralic, Celtic langs and Albanian. Also common in Bantoid langs, Basque, Zhuang, and Jingpo. Polish and Russian palatalize all but two or three of their consonants. Denoted with a left hook below, ̡◌: {N}➝{Ɲ}.
 ### Retroflex consonants
 Almost exclusive to the Indian subcontinent. Omnipresent in Indo-Aryan languages. Also very common in Dravidian and Austronesian langs. Analysed in contrast to the respective alveolar consonants. Denoted with a right hook below, ̡◌: {R}➝{Ɽ}.
 ### Velarization and Pharyngealization
-Rare outside of Arabic, Berberic and Caucasian langs. Denoted with a ring below, ◌̥: {T}➝{T̥} (Arabic: {ت} ➝ {ط}).
+Rare outside of Arabic, Berberic and Caucasian langs. Usually restricted to consonants. Velarization and pharyngealization are different degrees of the same articulatory process, which is not contrastive in any language. Denoted with a ring below, ◌̥: {T}➝{T̥} (Arabic: {ت} ➝ {ط}).
 ### Glottalization
-Rare outside of East-African, and Caucasian langs. Also present in Hausa, Fulani and some Indo-Aryan langs. Includes both ejective and implosive consonants. Denoted with a righ hook above, ◌ᣗ: {κ}➝{ƙ}.
+Occurs as ejectives in East-African and Caucasian langs. Also present in Hausa, Fulani and Serer as both ejectives and implosives. Surprisingly, some Indo-Aryan langs have four  implosives, [ɓ], [ɗ], [ᶑ] and [ɠ]. Creaky-voicing is concentrated in Native Central American langs. Denoted with a righ hook above, ◌ᣗ: {κ}➝{ƙ}.
 ### Breathy-voicing
-Extremely rare in vowels. Analysed as aspiration in consonants, thus denoted with н {ᴘн, ᴛн, κн}. Phonemic in Dinka (Nilotic) and Mon (Austroasiatic). Denoted with a left hook above, ɿ◌: {ỏ}.
+Extremely rare in vowels. Analysed as aspiration in consonants, thus denoted as {н <=> ᴘн, ᴛн, κн}. Dinka (Nilotic) and Mon (Austroasiatic) contrast two sets of vowels, modal voiced and breathy voiced. Denoted with a left hook above, ɿ◌: {ỏ}.
 ### Click consonants
 Near exclusive to South-African Khoisan and Bantoid langs. Also present in three East-African langs: Sandawe, Hadza, and Dahalo. Denoted with a ring above, ◌̊: {T}➝{T̊}.
 ## Sample text
