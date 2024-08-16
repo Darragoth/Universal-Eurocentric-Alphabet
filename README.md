@@ -72,7 +72,7 @@ Near exclusive to South-African Khoisan and Bantoid langs. Also present in three
 ## Sample text
 ### Transliteration
 ## Phonetic Super Families
-[The Map](Phonetic_Super_Families.jpeg)
+![The Map](Phonetic_Super_Families.jpeg)
 
 [The Map](https://www.google.com/maps/d/viewer?hl=fi&mid=1bwVF83mYLI8nQO9N-99FfQoBWDlmaaE&ll=18.001273675835744%2C0&z=1)
 ## Keyboard Configuration
