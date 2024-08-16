@@ -6,15 +6,21 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 - Used to write every language in the past, present and, hopefully, future.
 - Keyboard configuration: All 60 base letters accessible on most QWERTY AND AZERTY variants.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
-# Vowels
-## Transphonologization
+## Vowels
+### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) accessible via upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle key for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since its phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below.
-### Nasalization [~]
-Occurs across language families. Usually restricted to vowels. Phonemic in French, Portuguese, Albanian, Wu, Jin, Min Nan, Indo-Aryan, Acehnese, Burmese, Hmong, Tamil, many West-African, and Nilo-Saharan langs. Denoted with a tilde above or below.
-### Tonality
-Occurs everywhere except where white people live. Usually between 3 to 6 inherent pitch contours. Denoted with acute, grave, dipping & peaking accents among others.
-### Stress & Pitch accent [•]
-Very common, perhaps universal. Phonemic status not always certain. The French always stress the last syllable, while Finns always stress the first one. Slavs except for the Czech decided that stress is phonemic and unpredictable. Even English has minimal pairs separated only by stress, compare for example: insight/incite, prȯject/projėct, desert/dessert, ̇object/objėct, prėsent/presėnt. Denoted with a dot above or below. 
+#### Nasalization [~]
+Occurs across language families. Usually restricted to vowels. Phonemic in French, Portuguese, Albanian, Wu, Jin, Min Nan, Indo-Aryan, Acehnese, Burmese, Hmong, Tamil, many West-African, and Nilo-Saharan langs. Denoted with a tilde above {◌̃} or below {◌̰}.
+#### Tonality
+Occurs everywhere except where white people live. Usually between 3 to 6 inherent pitch contours. Denoted with:
+- vertical line above {◌̍} for a high tone
+- vertical line below {◌̩} for a low tone
+- acute accent {◌́} for a rising tone
+- grave accent {◌̀} for a falling tone
+- caron {◌̌} for a dipping tone
+- circumflex {◌̂} for a peaking tone.
+#### Stress & Pitch accent [•]
+Very common, perhaps universal. Phonemic status not always certain. The French always stress the last syllable, while Finns always stress the first one. Slavs except for the Czech decided that stress would be phonemic and unpredictable. Even English has minimal pairs separated only by stress, compare for example: insight/incite, prȯject/projėct, desert/dessert, ̇object/objėct, prėsent/presėnt. Denoted with a dot above {◌̇} or below {◌̣}. 
 ## Extra vowels, Ұ & Э
 Some langs like Acehnese distinguish four unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted Ɵ [ø] & Э [œ]. Could be the only one its kind or just French shenanigans.
 # Consonants
