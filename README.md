@@ -9,7 +9,7 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
 ### Transphonologization
-Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since its phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
+Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
 Occurs across language families. Usually restricted to vowels. Phonemic in French, Portuguese, Albanian, Wu, Jin, Min Nan, Indo-Aryan, Acehnese, Burmese, Hmong, Tamil, many West-African, and Nilo-Saharan langs. Denoted with a tilde above {◌̃} or below {◌̰}.
 #### Tonality
@@ -42,17 +42,17 @@ Bottom legend letters typeable with the central modifier key (◌̶ ) that adds 
 
 **Labial trills, Γ [ʙ̥] & Ɐ [ʙ]**: extremely rare. Present in Native American, Oceanic, Bantoid, Papuan, and Tibeto-Burman langs. 
 ## Articulatory Modification
-Most languages exhibit certain georaphically distinctive features, which allow a kind of grouping. This becomes evident, when comparing the *places of articulation* of their phonemes. Four of them are practically universal: labial, alveolar, palatal, and velar. Distinguishing consonants at dental PoA in contrast to its surrounding PoA, labial and alveolar, seems to occur sporadically across language families and regions, which excludes it as a grouping factor. Other uvular phonemes than {₭} [q] are rare, although {₭} [q] appears often among different language families. Moreover, these two consonant categories are subject to articulatory modification. This leaves three distinctive PoA analysed below.
+Most languages exhibit certain georaphically distinctive features, which allow a kind of grouping. This becomes evident, when comparing the *places of articulation* of their phonemes. Four of them are practically universal: labial, alveolar, and velar. Distinguishing consonants at dental PoA in contrast to its surrounding PoA, labial and alveolar, seems to occur sporadically across language families and regions, which excludes it as a grouping factor. The post-alveolar fricatives and affricates are near universal, hence they have dedicated symbols. Other uvular phonemes than {₭} [q] are rare, although {₭} [q] appears often among different language families. This leaves three distinctive PoA: palatal, retroflex, and epiglottal (see velarization) - analysed below.
 
-In some cases, there is a distinctive *manner of articulation*. [Ejective](https://en.wikipedia.org/wiki/Ejective_consonant) and [implosive](https://en.wikipedia.org/wiki/Implosive_consonant) consonants constitute the glottalic consonants. 
+In some cases, there is a distinctive *manner of articulation*. [Ejective](https://en.wikipedia.org/wiki/Ejective_consonant) and [implosive](https://en.wikipedia.org/wiki/Implosive_consonant) consonants constitute the glottalic consonants. There is also the issue of contrastive non-modal voicing of vowels. Creaky-voiced vowels are analysed as glottalic vowels. [Breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice#) is analysed as aspiration in consonants. A few langs, however, contrast two sets of vowels, modal voiced and breathy voiced.
 
 The articulatory modifications are typeable on the keyboard with the lower modifier key, ⴼ̥̊: 
-- [palatalization](https://en.wikipedia.org/wiki/Palatalization_(phonetics)): ◌ȷ
-- [retroflex](https://en.wikipedia.org/wiki/Retroflex_consonant): ɭ◌
-- [velarization](https://en.wikipedia.org/wiki/Velarization): ◌̥
-- [glottalization](https://en.wikipedia.org/wiki/Glottalic_consonant): ſ◌
-- [breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice): (◌ɿ)
-- [clicks](https://en.wikipedia.org/wiki/Click_consonant): ◌̊
+- [palatalization](https://en.wikipedia.org/wiki/Palatalization_(phonetics)): {◌ȷ} [◌ʲ]
+- [retroflex](https://en.wikipedia.org/wiki/Retroflex_consonant): {ɭ◌}
+- [velarization](https://en.wikipedia.org/wiki/Velarization): {◌̥} [◌ˠ], [◌ʶ], [◌ˤ]
+- [glottalization](https://en.wikipedia.org/wiki/Glottalic_consonant): {ſ◌} [◌ʼ]
+- [breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice): {◌ɿ} [◌̤][◌ʱ]
+- [clicks](https://en.wikipedia.org/wiki/Click_consonant): {◌̊} [ʘ], [ǀ], [!], [!!], [ǂ]
 
 The first three modify the place of articulation. They practically never occur in one language, and since they are physiologically mutually exclusive (cannot be produced simultaneously in one phoneme) they are denoted using the lower box, while the latter two use the upper box. At most a language exhibits two articulatory modifications. Depending on the selected language one of these features is configured to first priority for the modifier key. The second modification could be typed with SHIFT and the third with AltGr or FN.
 ### Palatalization
