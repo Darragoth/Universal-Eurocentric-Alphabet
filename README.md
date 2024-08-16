@@ -30,7 +30,7 @@ Some langs like Acehnese distinguish four unrounded back vowels: Y [ɯ], Ұ [ɤ]
 ### Uncommon phonemes
 Bottom legend letters typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
 
-**Uvular consonants**: several langs distinguish at least one dorsal consonant at two places of articulation, velar and uvular: И [ŋ], K [k], Ԍ [g], X [x], 𑄷 [ɣ] <=> Ⳮ [ɴ], ₭ [q], G [ɢ], Ӿ [χ], ~~૪~~ [ʁ] respectively. Common contrast among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
+**Uvular consonants**: several langs distinguish at least one dorsal consonant at two places of articulation, velar and uvular: И [ŋ], K [k], 𝖦 [g], X [x], 𑄷 [ɣ] <=> Ⳮ [ɴ], ₭ [q], G [ɢ], Ӿ [χ], ~~૪~~ [ʁ] respectively. Common contrast among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
 
 **Dental consonants**: a few langs distinguish [n],[t],[d] at two adjacent places of articulation, dental and alveolar: [Ꞥ}, {Ŧ}, {Ð} <=> {N}, {T}, {D}, respectively
 
