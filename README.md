@@ -40,7 +40,7 @@ Bottom legend letters typeable with the central modifier key (◌̶ ) that adds 
 
 **Voiceless alveolar trill, ᖉ [r̥]**: even rarer gem. Present in Tibetan, Chechen, Ingush, Welsh, Moksha, e.g.
 
-**Bilabial Ⴔ [ɸ] & Ƃ [β] vs labiodental F (f) & B (v) fricatives**: common allophones. The largest language by native speakers to contrast the two pairs is Ewe at 4 mil (2021).
+**Bilabial Ⴔ [ɸ] & Ƃ [β] vs labiodental F [f] & B [v] fricatives**: common allophones. The largest language by native speakers to contrast the two pairs is Ewe at 4 mil (2021).
 
 **Labial trills, Γ [ʙ̥] & Ɐ [ʙ]**: extremely rare. Present in Native American, Oceanic, Bantoid, Papuan, and Tibeto-Burman langs. 
 ## Articulatory Modification
