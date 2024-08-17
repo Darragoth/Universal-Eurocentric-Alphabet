@@ -73,7 +73,7 @@ Near exclusive to South-African Khoisan and Bantoid langs. Also present in three
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
 (Iz Universalnoj Deklaracije Prav Člověka, členòk 1)
 ### Transliteration
-Vsı ̡ʟᴜᴅı ʀoᴅᴇᴛ sᴇ svoʙoᴅɴı ı ʀᴀvɴı v ᴅosᴛoᴊɴosᴛı ı ᴘʀᴀvᴀx. Oɴı sᴜᴛ oʙᴅᴀʀᴊᴇɴı ʀᴀzᴜᴍoᴍ ı svıᴇsᴛᴊᴜ ı ıᴍᴀᴊᴜᴛ ᴘosᴛᴜᴘᴀᴛı ᴊᴇᴅıɴ κ ᴅʀᴜgoᴍᴜ v ᴅᴜxᴜ ʙʀᴀcᴛvᴀ.
+Vsı ̡ʟᴜᴅı ʀoᴅᴇᴛ sᴇ svoʙoᴅɴı ı ʀᴀvɴı v ᴅosᴛoᴊɴosᴛı ı ᴘʀᴀvᴀx. Oɴı sᴜᴛ oʙᴅᴀʀᴊᴇɴı ʀᴀzᴜᴍoᴍ ı svıᴇsᴛᴊᴜ ı ıᴍᴀᴊᴜᴛ ᴘosᴛᴜᴘᴀᴛı ᴊᴇᴅıɴ κ ᴅʀᴜԍoᴍᴜ v ᴅᴜxᴜ ʙʀᴀcᴛvᴀ.
 (Iz Uɴıvᴇʀsᴀʟɴoᴊ Dᴇκʟᴀʀᴀcıᴊᴇ Pʀᴀv Чʟovıᴇκᴀ, чʟᴇɴoκ 1)
 ## Phonetic Super Families
 ![The Map](Phonetic_Super_Families.jpeg)
