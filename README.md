@@ -70,7 +70,11 @@ Extremely rare in vowels. Analysed as aspiration in consonants, thus denoted as 
 ### Click consonants
 Near exclusive to South-African Khoisan and Bantoid langs. Also present in three East-African langs: Sandawe, Hadza, and Dahalo. Denoted with a ring above, ◌̊: {T}➝{T̊}.
 ## Sample text
+Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
+(Iz Universalnoj Deklaracije Prav Člověka, členòk 1)
 ### Transliteration
+Vsı ̡ʟᴜᴅı ʀoᴅᴇᴛ sᴇ svoʙoᴅɴı ı ʀᴀvɴı v ᴅosᴛoᴊɴosᴛı ı ᴘʀᴀvᴀx. Oɴı sᴜᴛ oʙᴅᴀʀᴊᴇɴı ʀᴀzᴜᴍoᴍ ı svıᴇsᴛᴊᴜ ı ıᴍᴀᴊᴜᴛ ᴘosᴛᴜᴘᴀᴛı ᴊᴇᴅıɴ κ ᴅʀᴜgoᴍᴜ v ᴅᴜxᴜ ʙʀᴀcᴛvᴀ.
+(Iz Uɴıvᴇʀsᴀʟɴoᴊ Dᴇκʟᴀʀᴀcıᴊᴇ Pʀᴀv Чʟovıᴇκᴀ, чʟᴇɴoκ 1)
 ## Phonetic Super Families
 ![The Map](Phonetic_Super_Families.jpeg)
 
