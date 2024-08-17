@@ -21,7 +21,7 @@ Occurs everywhere except where white people live. Usually between 3 to 6 inheren
 - caron {◌̌} for a dipping tone
 - circumflex {◌̂} for a peaking tone.
 #### Stress & Pitch accent [•]
-Very common, perhaps universal. Phonemic status not always certain. The French always stress the last syllable, while Finns always stress the first one. Slavs except for the Czech decided that stress would be phonemic and unpredictable. Even English has minimal pairs separated only by stress, compare for example: insight/incite, prȯject/projėct, desert/dessert, ̇ȯbject/objėct, prėsent/presėnt. Denoted with a dot above {◌̇} or below {◌̣}. 
+Very common, perhaps universal. Phonemic status not always certain. The French always stress the last syllable, while Finns always stress the first one. Slavs except for the Czech decided that stress would be phonemic and unpredictable. Even English has minimal pairs separated only by stress, compare for example: insight/incite, prȯject/projėct, desert/dessert, ȯbject/objėct, prėsent/presėnt. Denoted with a dot above {◌̇} or below {◌̣}. 
 ### Extra vowels, Ұ & Э
 A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted Ɵ [ø] & Э [œ]. Could be the only one of its kind or just French shenanigans.
 ## Consonants
@@ -30,9 +30,9 @@ A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [
 ### Uncommon phonemes
 Bottom legend letters typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
 
-**Uvular consonants**: several langs distinguish at least one dorsal consonant at two places of articulation, velar and uvular: И [ŋ], K [k], 𝖦 [g], X [x], 𑄷 [ɣ] <=> Ⳮ [ɴ], ₭ [q], G [ɢ], Ӿ [χ], ~~૪~~ [ʁ] respectively. Common contrast among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
+**Uvular consonants**: several langs distinguish at least one dorsal consonant (usually [q]) at two places of articulation, velar and uvular: И [ŋ], K [k], 𝖦 [g], X [x], 𑄷 [ɣ] <=> Ⳮ [ɴ], ₭ [q], G [ɢ], Ӿ [χ], ~~૪~~ [ʁ] respectively. Common contrast among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
 
-**Dental consonants**: a few langs distinguish [n],[t],[d] at two adjacent places of articulation, dental and alveolar: [Ꞥ}, {Ŧ}, {Ð} <=> {N}, {T}, {D}, respectively
+**Dental consonants**: a few langs distinguish [n],[t],[d] at two adjacent places of articulation, dental and alveolar: [Ꞥ}, {Ŧ}, {Ð} <=> {N}, {T}, {D}, respectively. In comparison, distinction of the non-sibilant dental fricatives [θ] & [ð] is much more common, hence dedicated symbols, {Ⴌ} & {Ƌ}.
 
 **Lateral alveolar fricatives, Ꞩ [ɬ] & Ƶ [ɮ]**: Common among Bantoid, Tibeto-Burman, Zhuang, Hmongic, Native American, Caucasian langs and Welsh.
 
@@ -44,7 +44,7 @@ Bottom legend letters typeable with the central modifier key (◌̶ ) that adds 
 
 **Labial trills, Γ [ʙ̥] & Ɐ [ʙ]**: extremely rare. Present in Native American, Oceanic, Bantoid, Papuan, and Tibeto-Burman langs. 
 ## Articulatory Modification
-Most languages exhibit certain georaphically distinctive features, which allow a kind of grouping. This becomes evident, when comparing the *places of articulation* (PoA) of their phonemes. Four of them are practically universal: labial, alveolar, and velar. Distinguishing consonants at dental PoA in contrast to its surrounding PoA, labial and alveolar, seems to occur sporadically across language families and regions, which excludes it as a grouping factor. The post-alveolar fricatives, {Ш} [ʃ], {Ж} [ʒ] and affricates {Ч} [tʃ], {𐕢} [dʒ]  are near universal, hence they have dedicated symbols. Other uvular phonemes than {₭} [q] are rare, although {₭} [q] appears often among different language families. This leaves three distinctive PoA: palatal, retroflex, and epiglottal (see velarization) - analysed below.
+Most languages exhibit certain geographically distinctive features, which allow a kind of grouping. This becomes evident, when comparing the *places of articulation* (PoA) of their phonemes. Three of them are practically universal: labial, alveolar, and velar. Distinguishing consonants at dental PoA in contrast to its surrounding PoA, labial and alveolar, seems to occur sporadically across language families and regions, which excludes it as a grouping factor. The post-alveolar fricatives, {Ш} [ʃ], {Ж} [ʒ] and affricates {Ч} [tʃ], {𐕢} [dʒ]  are near universal, hence they have dedicated symbols. Other uvular phonemes than {₭} [q] are rare, although {₭} [q] appears often among different language families. This leaves three distinctive PoA: palatal, retroflex, and epiglottal (see velarization) - analysed below.
 
 In some cases, there is a distinctive *manner of articulation*. [Ejective](https://en.wikipedia.org/wiki/Ejective_consonant) and [implosive](https://en.wikipedia.org/wiki/Implosive_consonant) consonants constitute the glottalic consonants. There is also the issue of contrastive non-modal voicing of vowels. [Creaky-voiced](https://en.wikipedia.org/wiki/Creaky_voice) vowels are analysed as glottalic vowels. [Breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice#) is analysed as aspiration in consonants. A few langs, however, contrast two sets of vowels, modal voiced and breathy voiced. Finally, there are the elusive click consonants in some African langs.
 
