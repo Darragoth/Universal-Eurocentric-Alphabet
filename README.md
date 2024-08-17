@@ -38,7 +38,7 @@ Bottom legend letters typeable with the central modifier key (◌̶ ) that adds 
 
 **Lateral velar/uvular approximant [ʟ] or velarized alveolar approximant [ɫ], ᖶ**: a rare gem. Present in Kurdish, Albanian, Papuan langs, Berberic, and maybe Turkish.
 
-**Voiceless alveolar trill, ᖉ [r̥]**: even rarer gem. Present in Tibetan, Chechen, Ingush, Welsh, Moksha, e.g.
+**Voiceless alveolar trill, ᖉ [r̥]**: even rarer gem. Present in Tibetan, Chechen, Ingush, Welsh, Moksha, and possibly Icelandic.
 
 **Bilabial Ⴔ [ɸ] & Ƃ [β] vs labiodental F [f] & B [v] fricatives**: common allophones. The largest language by native speakers to contrast the two pairs is Ewe at 4 mil (2021).
 
