@@ -9,6 +9,7 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 - All novel letters were designed to require the *least number of inputs* without sacrificing graphic harmony and unity between the letters.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
+The Chart
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
@@ -20,20 +21,27 @@ Occurs everywhere except where white people live. Usually between 3 to 6 inheren
 - acute accent {◌́} for a rising tone
 - grave accent {◌̀} for a falling tone
 - caron {◌̌} for a dipping tone
-- circumflex {◌̂} for a peaking tone.
+- circumflex {◌̂} for a peaking tone
+- among others for unique tones in certain languages.
 #### Stress & Pitch accent [•]
-Very common, perhaps universal. Phonemic status not always certain. The French always stress the last syllable, while Finns always stress the first one. Slavs except for the Czech decided that stress would be phonemic and unpredictable. Even English has minimal pairs separated only by stress, compare for example: insight/incite, prȯject/projėct, desert/dessert, ȯbject/objėct, prėsent/presėnt. Denoted with a dot above {◌̇} or below {◌̣}. 
+Very common, perhaps universal. Phonemic status not always certain. The French always stress the last syllable, while Finns always stress the first one. Slavs except for the Czech decided that stress would be phonemic and unpredictable. Even English has minimal pairs separated only by stress, compare for example: insight/incite, prȯject/projėct, desert/dessert, ȯbject/objėct, prėsent/presėnt. Denoted with a dot above {◌̇} or below {◌̣}.
 ### Extra vowels, Ұ & Э
-A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted Ɵ [ø] & Э [œ]. Could be the only one of its kind or just French shenanigans.
+A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted {Ɵ} [ø] & {Э} [œ]. Could be the only one of its kind or just French shenanigans.
 ## Consonants
 ### The Chart
 {H} and {‒} are unique. {H} is best analyzed as the only voiceless approximant. Otherr approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension before the next sound.
 ### Uncommon phonemes
 Bottom legend letters typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
 
-**Uvular consonants**: several langs distinguish at least one dorsal consonant (usually [q]) at two places of articulation, velar and uvular: И [ŋ], K [k], 𝖦 [g], X [x], 𑄷 [ɣ] <=> Ⳮ [ɴ], ₭ [q], G [ɢ], Ӿ [χ], ~~૪~~ [ʁ] respectively. Common contrast among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
+**Uvular consonants**: several langs distinguish at least one dorsal consonant (usually [q]) at two places of articulation, velar and uvular:
+| Velar        | Uvular         | 
+| :---:        |     :---:      |
+| И [ŋ]        | Ⳮ [ɴ]          |
+| K [k]\|𝖦 [g] | ₭ [q] \| G [ɢ] |
+| X [x]\|𑄷 [ɣ] |Ӿ [χ], ~~૪~~ [ʁ]|
+И [ŋ], K [k], 𝖦 [g], X [x], 𑄷 [ɣ] <=> Ⳮ [ɴ], ₭ [q], G [ɢ], Ӿ [χ], ~~૪~~ [ʁ] respectively. Common contrast among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
 
-**Dental consonants**: a few langs distinguish [n],[t],[d] at two adjacent places of articulation, dental and alveolar: [Ꞥ}, {Ŧ}, {Ð} <=> {N}, {T}, {D}, respectively. In comparison, distinction of the non-sibilant dental fricatives [θ] & [ð] is much more common, hence dedicated symbols, {Ⴌ} & {Ƌ}.
+**Dental consonants**: a few langs distinguish [n],[t],[d] at two adjacent places of articulation, dental and alveolar: [Ꞥ}, {Ŧ}, {Ð} <=> {N}, {T}, {D}, respectively. In comparison, phonemic distinction of the non-sibilant dental fricatives [θ] & [ð] is much more common, hence dedicated symbols, {Ⴌ} & {Ƌ}.
 
 **Lateral alveolar fricatives, Ꞩ [ɬ] & Ƶ [ɮ]**: Common among Bantoid, Tibeto-Burman, Zhuang, Hmongic, Native American, Caucasian langs and Welsh.
 
