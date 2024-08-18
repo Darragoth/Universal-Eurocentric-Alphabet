@@ -33,13 +33,14 @@ A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [
 ### Uncommon phonemes
 Bottom legend letters typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
 
-**Uvular consonants**: several langs distinguish at least one dorsal consonant (usually [q]) at two places of articulation, velar and uvular:
-| Velar        | Uvular         | 
-| :---:        |     :---:      |
-| И [ŋ]        | Ⳮ [ɴ]          |
-| K [k]\|𝖦 [g] | ₭ [q] \| G [ɢ] |
-| X [x]\|𑄷 [ɣ] |Ӿ [χ], ~~૪~~ [ʁ]|
-И [ŋ], K [k], 𝖦 [g], X [x], 𑄷 [ɣ] <=> Ⳮ [ɴ], ₭ [q], G [ɢ], Ӿ [χ], ~~૪~~ [ʁ] respectively. Common contrast among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
+**Uvular consonants**: several langs distinguish at least one uvular consonant, usually {₭} [q]. These are analysed in contrast to their velar counterparts:
+| Velar         | Uvular             | 
+| :---:         |     :---:          |
+| И [ŋ]         | Ⳮ [ɴ]              |
+| K [k] \|𝖦 [g] | ₭ [q] \| G [ɢ]     |
+| X [x] \|𑄷 [ɣ] | Ӿ [χ] \| ~~૪~~ [ʁ] |
+
+Common among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
 
 **Dental consonants**: a few langs distinguish [n],[t],[d] at two adjacent places of articulation, dental and alveolar: [Ꞥ}, {Ŧ}, {Ð} <=> {N}, {T}, {D}, respectively. In comparison, phonemic distinction of the non-sibilant dental fricatives [θ] & [ð] is much more common, hence dedicated symbols, {Ⴌ} & {Ƌ}.
 
