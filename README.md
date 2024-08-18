@@ -1,11 +1,12 @@
 # Universal Eurocentric Alphabet ЖꟽERЧ v0.72 - ʒwertʃ - Jwertch - Жўерч - Ζωερτςς - झ़वएरच - জৱএরথশ - ჟვერჩ - ջվեռՃ - ㅈㅞㄹㅊ - ጀዌረቸ
 **Every writing system is equally descriptive and prescriptive**
-The official IPA (International Phonetics Association) symbols are useful for academic accuracy, but utterly useless for practical writing purposes like an alphabet of a language. To represent every base vowel of 95 % of native speakers of all languages the Standard Latin Alphabet with 6 letters generally used for vowels (A, E, I, U, O, Y) would only need another 6 additional vowel letters: Ʌʌ, Ɵɵ, Ʉᵾ, Ɔɔ, Ɛɛ and Ⳟⳟ (the box symbol in the left graph, blame Google for poor rendering). That figure would jump to 99 % by adding two more vowel letters: Ұ & Э. Similarly, 46 base consonants can describe sufficiently the sounds of the vast majority of the world's languages.
+The official IPA (International Phonetics Association) symbols are useful for academic accuracy, but utterly useless for practical writing purposes like an alphabet of a language. To represent every base vowel of 95 % of native speakers of all languages the Standard Latin Alphabet with 6 letters generally used for vowels (A, E, I, U, O, Y) would only need another 6 additional vowel letters: Ʌʌ, Ɵɵ, Ʉᵾ, Ɔɔ, Ɛɛ and Ⳟⳟ. That figure would jump to 99 % by adding two more vowel letters: Ұ & Э. Similarly, 46 base consonants sufficiently describe the sounds of the vast majority of the world's languages.
 ## Notable features
 - Latin-Greek-Cyrillic-based and IPA inspired alphabet with 14 vowels and 46 consonants and 9 articulatory modifiers constituting altogether about 300 possible combinations or independent graphemes.
 - Used to write every language in the past, present and, hopefully, future.
-- Keyboard configuration: All 60 base letters configurable on most QWERTY and AZERTY variants.
-- All letters typeable with not more than 3 inputs using three modifier keys.
+- Keyboard configuration: All 60 base letters configurable on most QWERTY and AZERTY variants, of which 24 require two inputs.
+- All 300 letters typeable with not more than 3 inputs using 3 modifier keys.
+- All novel letters were designed to require the least number of inputs without sacrificing graphic harmony and unity between the letters.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
 ### Transphonologization
@@ -58,17 +59,24 @@ The articulatory modifications are typeable on the keyboard with the lower modif
 
 The first three modify the place of articulation. They practically never occur in one language, and since they are physiologically mutually exclusive (cannot be produced simultaneously in one phoneme) they are denoted using the lower box, while the latter two use the upper box. At most a language exhibits two articulatory modifications. Depending on the selected language one of these features is configured to first priority for the modifier key. The second modification could be typed with SHIFT and the third with AltGr or FN.
 ### Palatalization
-One of the most common phonemes in general, though in many languages the only palatal consonant is the approximant {J} [j]. While the nasal approximant [ɲ] occurs very commonly beside J [j] across all language families, it can be analyzed and represented also as a nasalized palatal approximant {J̃}. Other palatals are comparatively rarer. Ina addition to the aforementioned, palatalization occurs among Romance langs as [ʎ], and as [c] and [ɟ] among Slavic, Uralic, Celtic langs and Albanian. Also common in Bantoid langs, Basque, Zhuang, and Jingpo. Polish and Russian palatalize all but two or three of their consonants. Denoted with a left hook below, ̡◌: {N}➝{Ɲ}.
+One of the most common phonemes in general, though in many languages the only palatal consonant is the approximant {J} [j]. While the nasal approximant [ɲ] occurs very commonly beside J [j] across all language families, it can be analyzed and represented also as a nasalized palatal approximant {J̃}. Other palatals are comparatively rarer. Ina addition to the aforementioned, palatalization occurs among Romance langs as [ʎ], and as [c] and [ɟ] among Slavic, Uralic, Celtic langs and Albanian. Also common in Bantoid & Native American langs, Basque, Zhuang, and Jingpo. Polish and Russian palatalize all but two or three of their consonants. Denoted with a left hook below, ̡◌: {N}➝{Ɲ}.
 ### Retroflex consonants
-Almost exclusive to the Indian subcontinent. Omnipresent in Indo-Aryan languages. Also very common in Dravidian and Austronesian langs. Analysed in contrast to the respective alveolar consonants. Denoted with a right hook below, ̡◌: {R}➝{Ɽ}.
+Almost exclusive to the Indian subcontinent. Omnipresent in Indo-Aryan languages. Also very common in Dravidian and smaller Austronesian langs. Analysed in contrast to the respective alveolar consonants. Denoted with a right hook below, ̡◌: {R}➝{Ɽ}.
 ### Velarization and Pharyngealization
-Rare outside of Arabic, Berberic and Caucasian langs. Usually restricted to consonants. Velarization and pharyngealization are different degrees of the same articulatory process, which is not contrastive in any language. Denoted with a ring below, ◌̥: {T}➝{T̥} (Arabic: {ت} ➝ {ط}).
+Rare outside of Arabic, Berberic and Caucasian langs. Usually restricted to consonants. Velarization and pharyngealization are different degrees of the same articulatory process. The degree is not contrastive in any language. Two main consonants in this category are the epiglottal [ħ] & [ʕ], which are analysed as pharyngealized [h] and [ʔ] as in [hˤ] and [ʔˤ]. These two often appear in languages with no other *pharyngealized* consonants like in Ethio-Semitic and Cushitic languages around the Horn of Africa, where ejectives are the distinctive feature. Thus, [ħ] could be denoted with the diacritic for an ejective consonant, {◌ᣗ}, since no language distinguishes a pharyngealized and an ejective [h] and the resulting sounds are very similar. [ʕ]
+
+Denoted with a ring below, ◌̥: {T}➝{T̥} or in Arabic: {ت} ➝ {ط}. The ring is a placeholder. It's intended to connect to the letter, forming a droplet like diacritic.
 ### Glottalization
 Occurs as ejectives in East-African and Caucasian langs. Also present in Hausa, Fulani and Serer as both ejectives and implosives. Surprisingly, some Indo-Aryan langs have four  implosives, [ɓ], [ɗ], [ᶑ] and [ɠ]. Creaky-voicing is concentrated in Native Central American langs. Denoted with a righ hook above, ◌ᣗ: {κ}➝{ƙ}.
 ### Breathy-voicing
 Extremely rare in vowels. Analysed as aspiration in consonants, thus denoted as {н <=> ᴘн, ᴛн, κн}. Dinka (Nilotic) and Mon (Austroasiatic) contrast two sets of vowels, modal voiced and breathy voiced. Denoted with a left hook above, ɿ◌: {ỏ}.
 ### Click consonants
 Near exclusive to South-African Khoisan and Bantoid langs. Also present in three East-African langs: Sandawe, Hadza, and Dahalo. Denoted with a ring above, ◌̊: {T}➝{T̊}.
+### Marginal examples
+Chiquihuitlán Mazatec might be the ultimate example of non-standard phonation. It contrasts four sets of vowels: modal, nasal, breathy, and creaky voiced as well as 4 level tones and 13 different contour tones. There's also two different tertiary phonation contrasts for some consonants:
+- breathy-modal-creaky for the nasals, [m̥][m][m̰], [n̥][n][n̰], [ɲ̥][ɲ][ɲ̰].
+- breathy-modal-nasal for the approximants, [ȷ̊][j][j̃] and [ʍ][w][w̰].
+
 ## Sample text
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
 (Iz Universalnoj Deklaracije Prav Člověka, členòk 1)
