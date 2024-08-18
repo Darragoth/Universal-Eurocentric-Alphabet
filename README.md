@@ -6,7 +6,7 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 - Used to write every language in the past, present and, hopefully, future.
 - Keyboard configuration: All 60 base letters configurable on most QWERTY and AZERTY variants, of which 24 require two inputs.
 - All 300 letters typeable with not more than 3 inputs using 3 modifier keys.
-- All novel letters were designed to require the least number of inputs without sacrificing graphic harmony and unity between the letters.
+- All novel letters were designed to require the *least number of inputs* without sacrificing graphic harmony and unity between the letters.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
 ### Transphonologization
@@ -63,7 +63,7 @@ One of the most common phonemes in general, though in many languages the only pa
 ### Retroflex consonants
 Almost exclusive to the Indian subcontinent. Omnipresent in Indo-Aryan languages. Also very common in Dravidian and smaller Austronesian langs. Analysed in contrast to the respective alveolar consonants. Denoted with a right hook below, ̡◌: {R}➝{Ɽ}.
 ### Velarization and Pharyngealization
-Rare outside of Arabic, Berberic and Caucasian langs. Usually restricted to consonants. Velarization and pharyngealization are different degrees of the same articulatory process. The degree is not contrastive in any language. Two main consonants in this category are the epiglottal [ħ] & [ʕ], which are analysed as pharyngealized [h] and [ʔ] as in [hˤ] and [ʔˤ]. These two often appear in languages with no other *pharyngealized* consonants like in Ethio-Semitic and Cushitic languages around the Horn of Africa, where ejectives are the distinctive feature. Thus, [ħ] could be denoted with the diacritic for an ejective consonant, {◌ᣗ}, since no language distinguishes a pharyngealized and an ejective [h] and the resulting sounds are very similar. [ʕ]
+Rare outside of Arabic, Berberic and Caucasian langs. Usually restricted to consonants. Velarization and pharyngealization are different degrees of the same articulatory process. The degree is not contrastive in any language. Two main consonants in this category are the epiglottal [ħ] & [ʕ], which are analysed as pharyngealized [h] and [ʔ] as in [hˤ] and [ʔˤ]. These two often appear in languages with no other *pharyngealized* consonants like in Ethio-Semitic and Cushitic languages around the Horn of Africa, where ejectives are the distinctive feature. Therefore, [ħ] could be denoted with the diacritic for an ejective consonant, {◌ᣗ}, since no language distinguishes a pharyngealized and an ejective [h] and the resulting sounds are very similar. More often than not, as an approximant [ʕ] cannot exactly be analysed as an implosive of [ʔ].
 
 Denoted with a ring below, ◌̥: {T}➝{T̥} or in Arabic: {ت} ➝ {ط}. The ring is a placeholder. It's intended to connect to the letter, forming a droplet like diacritic.
 ### Glottalization
