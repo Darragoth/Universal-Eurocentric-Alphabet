@@ -34,11 +34,11 @@ A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [
 Bottom legend letters typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
 
 **Uvular consonants**: several langs distinguish at least one uvular consonant, usually {₭} [q]. These are analysed in contrast to their velar counterparts:
-| Velar         | Uvular             | 
-| :---:         |     :---:          |
-| И [ŋ]         | Ⳮ [ɴ]              |
-| K [k] \|𝖦 [g] | ₭ [q] \| G [ɢ]     |
-| X [x] \|𑄷 [ɣ] | Ӿ [χ] \| ~~૪~~ [ʁ] |
+| Velar          | Uvular             | 
+| :---:          |     :---:          |
+| И [ŋ]          | Ⳮ [ɴ]              |
+| K [k] \| 𝖦 [g] | ₭ [q] \| G [ɢ]     |
+| X [x] \| 𑄷 [ɣ] | Ӿ [χ] \| ~~૪~~ [ʁ] |
 
 Common among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
 
