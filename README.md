@@ -25,7 +25,7 @@ Occurs everywhere except where white people live. Usually between 3 to 6 inheren
 - among others for unique tones in certain languages.
 #### Stress & Pitch accent [•]
 Very common, perhaps universal. Phonemic status not always certain. The French always stress the last syllable, while Finns always stress the first one. Slavs except for the Czech decided that stress would be phonemic and unpredictable. Even English has minimal pairs separated only by stress, compare for example: insight/incite, prȯject/projėct, desert/dessert, ȯbject/objėct, prėsent/presėnt. Denoted with a dot above {◌̇} or below {◌̣}.
-### Extra vowels, Ұ & Э
+### Extra vowels, {Ұ} & [Э}
 A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted {Ɵ} [ø] & {Э} [œ]. Could be the only one of its kind or just French shenanigans.
 ## Consonants
 ### The Chart
@@ -92,8 +92,11 @@ The case of [ɧ] is rather straighforward. Most commonly among Swedish dialects 
 Chiquihuitlán Mazatec might be the ultimate example of non-standard phonation. It contrasts four sets of vowels: modal, nasal, breathy, and creaky voiced as well as 4 level tones and 13 different contour tones. There's also two different tertiary phonation contrasts for some consonants:
 - breathy-modal-creaky for the nasals, [m̥][m][m̰], [n̥][n][n̰], [ɲ̥][ɲ][ɲ̰].
 - breathy-modal-nasal for the approximants, [ȷ̊][j][j̃] and [ʍ][w][w̰].
-## The issue of allophony
+## General issues and challenges
+### The issue of allophony
 Color coding on the chart demonstrates the most common allophones. The orthography of a language should include letters requiring the least amount of inputs without sacrificing graphic harmony and phonemic precision. For example, in English [ɸ] would be transcribed as {F} or {P} instead of {Ⴔ}, or in Russian and Turkish [d̪] would be transcribed {D} instead of {Ð}, or in Arabic and Iranian [χ] would be transcribed {X} instead of {Ӿ}.
+### Division of world by Y & J
+Mainly thanks to colonialist policies of the UK and and Latin countries most of the world associates ypsilon, Y, with the palatal approximant, [j], while in the Nordic countries it stands for the rounded close front vowel, [y], and five Slavic countries use it to transcribe the unrounded close central vowel, [ɨ]. 
 ## Sample text
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
 (Iz Universalnoj Deklaracije Prav Člověka, členòk 1)
