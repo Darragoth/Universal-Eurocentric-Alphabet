@@ -29,7 +29,7 @@ Very common, perhaps universal. Phonemic status not always certain. The French a
 A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted {Ɵ} [ø] & {Э} [œ]. Could be the only one of its kind or just French shenanigans.
 ## Consonants
 ### The Chart
-{H} and {‒} are unique. {H} is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension before the next sound.
+{H} and {‒} are unique. {H} [h] is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension before the next sound.
 ### Uncommon phonemes
 Bottom legend letters typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
 
