@@ -11,13 +11,13 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 ## Vowels
 The vowel systems of practically all languages can be described with three categories: square, triangle, and vertical line.
 
-| Square        | Front    | Back     |  | Triangle      | Front | Central | Back   |  |
-| :---:         | :---:    | :---:    |  | :---:         | :---: | :---:   | :---:  |  |
-| **Closed**    | I \| *Ʉ* | *Y* \| U |  | **Closed**    | I     |   *Y*   | U      |  |
-| **Close-mid** |          |          |  | **Close-Mid** | E     |         | O      |  |
-| **Mid**       | E \| *Ɵ* | *𖼮* \| O |  | **Mid**       |       |   *𖼮*   |        |  |
-| **Open-mid**  |          |          |  | **Open-mid**  | Ɛ     |         | Ɔ      |  |
-| **Open**      | Ʌ        | A        |  | **Open**      |       |    A    |        |  |
+| Square        | Front    | Back     | --- | Triangle      | Front | Central | Back   | --- |
+| :---:         | :---:    | :---:    | --- | :---:         | :---: | :---:   | :---:  | --- |
+| **Closed**    | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U      | --- |
+| **Close-mid** |          |          | --- | **Close-Mid** | E     |         | O      | --- |
+| **Mid**       | E \| *Ɵ* | *𖼮* \| O | --- | **Mid**       |       |   *𖼮*   |        | --- |
+| **Open-mid**  |          |          | --- | **Open-mid**  | Ɛ     |         | Ɔ      | --- |
+| **Open**      | Ʌ        | A        | --- | **Open**      |       |    A    |        | --- |
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
