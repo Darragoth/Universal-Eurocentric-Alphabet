@@ -9,7 +9,14 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 - All novel letters were designed to require the *least number of inputs* without sacrificing graphic harmony and unity between the letters.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
-The Chart
+Practically all vowel systems can be described with three categories: square, triangle, and vertical line.
+| Square                                            |
+|            | Front  | Back   | Fricative          |
+| :---:      | :---:  | :---:  | :---:              |
+| **Closed** | I \| Ʉ | Y \| U | X [x] \| 𑄷 [ɣ]     |
+| **Closed** | I \| Ʉ | Y \| U | X [x] \| 𑄷 [ɣ]     |
+| **Mid**    | E \| Ɵ | 𖼮 \| O | Ӿ [χ] \| ~~૪~~ [ʁ] |
+| **Open**   | Ʌ      | A      | Ӿ [χ] \| ~~૪~~ [ʁ] |
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
