@@ -9,15 +9,21 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 - All novel letters were designed to require the *least number of inputs* without sacrificing graphic harmony and unity between the letters.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
-The vowel systems of practically all languages can be described with three categories: square, triangle, and vertical line.
+The vowel systems of practically all languages can be described with three principal categories: square, triangle, and vertical. {Ʉ} & {Ɵ} occur often as pairs. Same is often true for {Y} & {Ⳟ} and {Ɛ} & {Ɔ}. 
 
 | Square        | Front    | Back     | --- | Triangle      | Front | Central | Back   | --- | Triangle      | Central |
 | :---:         | :---:    | :---:    | --- | :---:         | :---: | :---:   | :---:  | --- | :---:         | :---:   |
 | **Closed**    | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U      | --- | **Closed**    |    Y    |
-| **Close-mid** |          |          | --- | **Close-Mid** | E     |         | O      | --- | **Close-Mid** |         |
+| **Close-mid** |          |          | --- | **Close-mid** | E     |         | O      | --- | **Close-mid** |         |
 | **Mid**       | E \| *Ɵ* | *Ⳟ* \| O | --- | **Mid**       |       |   *Ⳟ*   |        | --- | **Mid**       |   *Ⳟ*   |
 | **Open-mid**  |          |          | --- | **Open-mid**  | Ɛ     |         | Ɔ      | --- | **Open-mid**  |         |
-| **Open**      | Ʌ        | A        | --- | **Open**      |       |    A    |        | --- | **Open**      |    A    |
+| **Open**      |    Ʌ     |    A     | --- | **Open**      |       |    A    |        | --- | **Open**      |    A    |
+
+### Vowel systems
+#### Square vowel system
+**Six vowel square systems** (I, E, Ʌ, A, O, U) are common across the entire continent of Eurasia: Germanic, Uralic, Turkic, Indo-Iranian, Tibetic, Wu languages and Sinhala. Also possibly present in Ethio-Semitic languages, Korean and some Slavic languages depending on analysis. Ge'ez, one of the oldest written languages in the Horn of Africa, though today only used as the main liturgical language in some Ethiopian and Eritrean churches, had a six vowel square system with also {Y} [ɨ], which is reflected to this day in the transcription choice of {Ʌ} with *Ää*. Not all Koreans distinguish ㅔ[e] from ㅐ[ɛ], indeed, the phonemes seem to be in a process of merging. 
+#### Triangle vowel system
+#### Vertical vowel system
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
