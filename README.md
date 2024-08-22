@@ -39,7 +39,7 @@ Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, n
 |         |         |          |        |         |           |           |         |            |           |         |            |          |
 #### Triangle vowel system
 #### Vertical vowel system
-Rare outside of NW-Caucasian and marginal Chadic languages. Often compensated with strong labialization and/or palatalization. 
+Rare outside of NW-Caucasian and marginal Chadic languages. Often compensated with strong labialization and/or palatalization. Front and back vowels occur as allophones.
 #### Other vowel systems
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
