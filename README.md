@@ -9,10 +9,10 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 - All novel letters were designed to require the *least number of inputs* without sacrificing graphic harmony and unity between the letters.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
-The vowel systems of practically all languages can be described with three principal categories: square, triangle, and vertical. {Ʉ} & {Ɵ} occur often as pairs. Same is often true for {Y} & {Ⳟ} and {Ɛ} & {Ɔ}. 
+The vowel systems of practically all languages can be described with three principal categories: rectangular, triangular, and vertical. {Ʉ} & {Ɵ} occur often as pairs. Same is often true for {Y} & {Ⳟ} and {Ɛ} & {Ɔ}. 
 
-| Square        | Front    | Back     | --- | Triangle      | Front | Central | Back   | --- | Triangle      | Central |
-| :---:         | :---:    | :---:    | --- | :---:         | :---: | :---:   | :---:  | --- | :---:         | :---:   |
+| Rectangular   | Front    | Back     | --- | Triangular    | Front | Central | Back   | --- | Vertical      | Central |
+| :---          | :---:    | :---:    | --- | :---          | :---: | :---:   | :---:  | --- | :---          | :---:   |
 | **Closed**    | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U      | --- | **Closed**    |    Y    |
 | **Close-mid** |          |          | --- | **Close-mid** | E     |         | O      | --- | **Close-mid** |         |
 | **Mid**       | E \| *Ɵ* | *Ⳟ* \| O | --- | **Mid**       |       |   *Ⳟ*   |        | --- | **Mid**       |   *Ⳟ*   |
@@ -20,10 +20,27 @@ The vowel systems of practically all languages can be described with three princ
 | **Open**      |    Ʌ     |    A     | --- | **Open**      |       |    A    |        | --- | **Open**      |    A    |
 
 ### Vowel systems
-#### Square vowel system
-**Six vowel square systems** (I, E, Ʌ, A, O, U) are common across the entire continent of Eurasia: Germanic, Uralic, Turkic, Indo-Iranian, Tibetic, Wu languages and Sinhala. Also possibly present in Ethio-Semitic languages, Korean and some Slavic languages depending on analysis. Ge'ez, one of the oldest written languages in the Horn of Africa, though today only used as the main liturgical language in some Ethiopian and Eritrean churches, had a six vowel square system with also {Y} [ɨ], which is reflected to this day in the transcription choice of {Ʌ} with *Ää*. Not all Koreans distinguish ㅔ[e] from ㅐ[ɛ], indeed, the phonemes seem to be in a process of merging. 
+#### Rectangular vowel system
+**Six vowel rectangular systems** (I, E, Ʌ, A, O, U) are common across the entire continent of Eurasia: Germanic, Uralic, Turkic, Indo-Iranian, Tibetic, Wu, many NE-Caucasian languages and Sinhala. Possibly true also for Ethio-Semitic languages, Korean and some Slavic languages depending on analysis.
+
+**Ge'ez**, one of the oldest written languages in the Horn of Africa, though today only used as the main liturgical language in some Ethiopian and Eritrean churches, had the six vowel system and a central vowel {Y} [ɨ]. This fact is reflected to this day in the romanization of Ethio-Semitic languages with the transcription of {Ʌ} with 'Ää', whose pronunciation today ranges from [æ] to [ɐ].
+
+Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, notably, romanized as 'ae'. Indeed, the phonemes seem to be in a process of merging.
+
+**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach.
+| English | Slovene | Croatian | Czech  | Slovak  | Polish    | Ukrainian | Russian | Belarusian | Bulgarian | Serbian | Macedonian |          |
+| :---    | :---:   | :---:    | :---:  | :---:   | :---:     | :---:     | :---:   | :---:      | :---:     | :---:   | :---:      | :---     |
+| smell   | vonj    | njuh     | ňuch   | ňuch    | węch      | нюх       | нюх     | нюх        | нюх       | њух     | мирис      | [u]➝[ʉ] |
+| IPA     | voɲ     | ɲʉx      | ɲʉx    | ɲʉx     | vex       | ɲʉx       | ɲʉx     | ɲʉx        | ɲʉx       | ɲʉx     | miris      |          |
+| aunt    | tetka   | tetka    | tetka  | tetka   | ciocka    | тітка     | тётка   | цётка      | тетка     | тетка   | тетка      | [o]➝[ɵ] |
+| IPA     | tetka   | tetka    | tetka  | tetka   | t͡sʲɵt͡sʲka | tʲitka    | tʲɵtka  | t͡sʲɵtka    | tetka     | tetka   | tetka      |          |
+| will    | volja   | volja    | vůle   | vôľa    | wola      | воля      | воля    | воля       | воля      | воља    | волја      | [ä]➝[æ] |
+| IPA     | voʎæ    | voʎæ     | vu:le  | voʎæ    | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       |          |
+|         |         |          |        |         |           |           |         |            |           |         |            |          |
 #### Triangle vowel system
 #### Vertical vowel system
+Rare outside of NW-Caucasian and marginal Chadic languages. Often compensated with strong labialization and/or palatalization. 
+#### Other vowel systems
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
@@ -40,7 +57,7 @@ Occurs everywhere except where white people live. Usually between 3 to 6 inheren
 #### Stress & Pitch accent [•]
 Very common, perhaps universal. Phonemic status not always certain. The French always stress the last syllable, while Finns always stress the first one. Slavs except for the Czech decided that stress would be phonemic and unpredictable. Even English has minimal pairs separated only by stress, compare for example: insight/incite, prȯject/projėct, desert/dessert, ȯbject/objėct, prėsent/presėnt. Denoted with a dot above {◌̇} or below {◌̣}.
 ### Extra vowels, {Ұ} & [Э}
-A few langs like Acehnese distinguish *four* unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted {Ɵ} [ø] & {Э} [œ]. Could be the only one of its kind or just French shenanigans.
+A few langs like Acehnese, Dan (Mande), and Nasu (Loloish) distinguish *four* unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted {Ɵ} [ø] & {Э} [œ]. Could be the only one of its kind or just French shenanigans.
 ## Consonants
 ### The Chart
 {H} and {‒} are unique. {H} [h] is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension before the next sound.
