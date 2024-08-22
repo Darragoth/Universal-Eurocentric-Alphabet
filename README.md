@@ -35,7 +35,7 @@ Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, n
 | aunt    | tetka   | tetka    | tetka  | tetka   | ciocka    | тітка     | тётка   | цётка      | тетка     | тетка   | тетка      | [o]➝[ɵ] |
 | IPA     | tetka   | tetka    | tetka  | tetka   | t͡sʲɵt͡sʲka | tʲitka    | tʲɵtka  | t͡sʲɵtka    | tetka     | tetka   | tetka      |          |
 | will    | volja   | volja    | vůle   | vôľa    | wola      | воля      | воля    | воля       | воля      | воља    | волја      | [ä]➝[æ] |
-| IPA     | voʎæ    | voʎæ     | vu:le  | voʎæ    | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       |          |
+| IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       |          |
 |         |         |          |        |         |           |           |         |            |           |         |            |          |
 #### Triangle vowel system
 #### Vertical vowel system
