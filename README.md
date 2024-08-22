@@ -23,11 +23,11 @@ The vowel systems of practically all languages can be described with three princ
 #### Rectangular vowel system
 **Six vowel rectangular systems** (I, E, Ʌ, A, O, U) are common across the entire continent of Eurasia: Germanic, Uralic, Turkic, Indo-Iranian, Tibetic, Wu, many NE-Caucasian languages and Sinhala. Possibly true also for Ethio-Semitic languages, Korean and some Slavic languages depending on analysis.
 
-**Ge'ez**, one of the oldest written languages in the Horn of Africa, though today only used as the main liturgical language in some Ethiopian and Eritrean churches, had the six vowel system and a central vowel {Y} [ɨ]. This fact is reflected to this day in the romanization of Ethio-Semitic languages with the transcription of {Ʌ} with 'Ää', whose pronunciation today ranges from [æ] to [ɐ].
+**Ge'ez**, one of the oldest written languages in the Horn of Africa, though today only used as the main liturgical language in some Ethiopian and Eritrean churches, had the six vowel system and a central vowel {Y} [ɨ]. This fact is reflected to this day in the romanization of Ethio-Semitic languages with the transcription of {Ʌ} with 'Ä', whose pronunciation today ranges from [æ] to [ɐ].
 
 Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, notably, romanized as 'ae'. Indeed, the phonemes seem to be in a process of merging.
 
-**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach.
+**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach. Interestingly, Slovaks transcribe [æ] with 'Ä'.
 | English | Slovene | Croatian | Czech  | Slovak  | Polish    | Ukrainian | Russian | Belarusian | Bulgarian | Serbian | Macedonian |          |
 | :---    | :---:   | :---:    | :---:  | :---:   | :---:     | :---:     | :---:   | :---:      | :---:     | :---:   | :---:      | :---     |
 | smell   | vonj    | njuh     | ňuch   | ňuch    | węch      | нюх       | нюх     | нюх        | нюх       | њух     | мирис      | [u]➝[ʉ] |
@@ -38,6 +38,11 @@ Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, n
 | IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       |          |
 |         |         |          |        |         |           |           |         |            |           |         |            |          |
 #### Triangle vowel system
+Probably the most common vowel system.
+
+Apart from Jin, other Chinese langs such as Mandarin and Cantonese exhibit features of a five vowel triangular system, while also distinguishing {Ʉ} [y], {Ɵ} [ø], {Ⳟ} [ə ~ ɤ], and {Y} [ɯ ~ ɨ] as a whole.
+
+Armenian and Albanian.
 #### Vertical vowel system
 Rare outside of NW-Caucasian and marginal Chadic languages. Often compensated with strong labialization and/or palatalization. Front and back vowels occur as allophones.
 #### Other vowel systems
