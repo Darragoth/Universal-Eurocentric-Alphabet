@@ -16,7 +16,7 @@ The vowel systems of practically all languages can be described with three princ
 | **Closed**    | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U      | --- | **Closed**    |    Y    |
 | **Close-mid** |          |          | --- | **Close-mid** | E     |         | O      | --- | **Close-mid** |         |
 | **Mid**       | E \| *Ɵ* | *Ⳟ* \| O | --- | **Mid**       |       |   *Ⳟ*   |        | --- | **Mid**       |   *Ⳟ*   |
-| **Open-mid**  |          |          | --- | **Open-mid**  | Ɛ     |         | Ɔ      | --- | **Open-mid**  |         |
+| **Open-mid**  |          |          | --- | **Open-mid**  | *Ɛ*   |         | *Ɔ*    | --- | **Open-mid**  |         |
 | **Open**      |    Ʌ     |    A     | --- | **Open**      |       |    A    |        | --- | **Open**      |    A    |
 
 ### Vowel systems
@@ -27,25 +27,72 @@ The vowel systems of practically all languages can be described with three princ
 
 Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, notably, romanized as 'ae'. Indeed, the phonemes seem to be in a process of merging.
 
-**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach. Interestingly, Slovaks transcribe [æ] with 'Ä'.
+**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach. These five languages also distinguish a central vowel {Y} [ɨ], which is transcribed in Latin with 'y'. Interestingly, Slovaks transcribe [æ] with 'Ä'.
 | English | Slovene | Croatian | Czech  | Slovak  | Polish    | Ukrainian | Russian | Belarusian | Bulgarian | Serbian | Macedonian |          |
 | :---    | :---:   | :---:    | :---:  | :---:   | :---:     | :---:     | :---:   | :---:      | :---:     | :---:   | :---:      | :---     |
-| smell   | vonj    | njuh     | ňuch   | ňuch    | węch      | нюх       | нюх     | нюх        | нюх       | њух     | мирис      | [u]➝[ʉ] |
-| IPA     | voɲ     | ɲʉx      | ɲʉx    | ɲʉx     | vex       | ɲʉx       | ɲʉx     | ɲʉx        | ɲʉx       | ɲʉx     | miris      |          |
-| aunt    | tetka   | tetka    | tetka  | tetka   | ciocka    | тітка     | тётка   | цётка      | тетка     | тетка   | тетка      | [o]➝[ɵ] |
-| IPA     | tetka   | tetka    | tetka  | tetka   | t͡sʲɵt͡sʲka | tʲitka    | tʲɵtka  | t͡sʲɵtka    | tetka     | tetka   | tetka      |          |
-| will    | volja   | volja    | vůle   | vôľa    | wola      | воля      | воля    | воля       | воля      | воља    | волја      | [ä]➝[æ] |
-| IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       |          |
+| smell   | vonj    | njuh     | ňuch   | ňuch    | węch      | нюх       | нюх     | нюх        | нюх       | њух     | мирис      |          |
+| IPA     | voɲ     | ɲʉx      | ɲʉx    | ɲʉx     | vex       | ɲʉx       | ɲʉx     | ɲʉx        | ɲʉx       | ɲʉx     | miris      | [u]➝[ʉ] |
+| aunt    | tetka   | tetka    | tetka  | tetka   | ciocka    | тітка     | тётка   | цётка      | тетка     | тетка   | тетка      |          |
+| IPA     | tetka   | tetka    | tetka  | tetka   | t͡sʲɵt͡sʲka | tʲitka    | tʲɵtka  | t͡sʲɵtka    | tetka     | tetka   | tetka      | [o]➝[ɵ] |
+| will    | volja   | volja    | vůle   | vôľa    | wola      | воля      | воля    | воля       | воля      | воља    | волја      |          |
+| IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       | [ä]➝[æ] |
 |         |         |          |        |         |           |           |         |            |           |         |            |          |
-#### Triangle vowel system
-Probably the most common vowel system.
+#### Triangular vowel system
 
-Apart from Jin, other Chinese langs such as Mandarin and Cantonese exhibit features of a five vowel triangular system, while also distinguishing {Ʉ} [y], {Ɵ} [ø], {Ⳟ} [ə ~ ɤ], and {Y} [ɯ ~ ɨ] as a whole.
+**Arabic and Berberic** languages distinguish only three vowels: I, A, U, which have a wide range of allophones.
 
-Armenian and Albanian.
+The triangular 5-vowel system is probably the most common vowel system. Across major branches and families it's present in:
+- **Romance**: Spanish & Italian
+- **Paleo-Balkan**: Greek
+
+The triangular 6-vowel system that distinguishes *one* unrounded central or back vowel, {Y} or {Ⳟ}:
+- **Sinitic**: Hokkien, Teochew, Hakka, Gan
+- **Austronesian**: Javanese, Madurese
+- **Dravidian**: Malayalam, Kodava, Tulu
+- **Kra-Dai**: Zhuang, Bouyei
+- **Tibeto-Burman**: Meitei
+- **Paleo-Balkan**: Armenian
+- **American**: Guarani, Arawakan
+- **Hmong-Mien**: Hmong, Iu Mien
+- **Caucasian**: Dargwa
+- **Celtic**: Welsh
+
+The triangular 7-vowel system that distinguishes *both* the near-close {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels:
+- **Romance**: Portuguese, maybe French (see details below)
+- **Indo-Aryan**: The majority except for Marathi, Odia, Nepali, Sinhala, and Chhattisgarhi
+- **Bantoid**: Gikuyu, Lingala, Sepedi
+- **West-African**: Yoroba, Manding langs
+- **Nilotic**: Nobiin, Maasai, Dinka
+
+The triangular 7-vowel system that distinguishes *both* unrounded central or back vowels, {Y} & {Ⳟ}
+- **Romance**: Romanian
+- **Indo-Aryan**: Kashmiri
+- **Austronesian**: Sundanese
+- **Korean**: For some speakers
+- **Tibeto-Burman**: Nyishi
+- **Indo-Iranian**: Wakhi
+- **Saharan**: Kanuri
+- **Oto-Manguean**: Otomi
+
+The triangular 8-vowel system that distinguishes *both* the near-close {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels, and *one* unrounded central or back vowel, {Y} or {Ⳟ}:
+- **Austroasiatic**: Santali
+- **Tibeto-Burman**: Burmese
+- **West-African**: Ewe, Wolof
+
+The triangular 8-vowel system that distinguishes *both* unrounded central or back vowels {Y} & {Ⳟ}, and a rounded close front vowel, {Ʉ}:
+- **Sinitic**: Mandarin, Jin
+
+The triangular 9-vowel system that distinguishes *both* the near-close, {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels, and *both* unrounded central or back vowels, {Y} & {Ⳟ}:
+- **Austroasiatic**: Vietnamese, Khmer, Mon
+- **Kra-Dai**: Thai, Shan, Lao
+- **Tibeto-Burman**: Karenic
+
 #### Vertical vowel system
 Rare outside of NW-Caucasian and marginal Chadic languages. Often compensated with strong labialization and/or palatalization. Front and back vowels occur as allophones.
 #### Other vowel systems
+**French** is cursed
+
+**Khmeric** has 10 base vowels.
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
