@@ -21,7 +21,7 @@ The vowel systems of practically all languages can be described with three princ
 
 ### Vowel systems
 #### Rectangular vowel system
-**Six vowel rectangular systems** (I, E, Ʌ, A, O, U) are common across the entire continent of Eurasia: Germanic, Uralic, Turkic, Indo-Iranian, Tibetic, Wu, many NE-Caucasian languages and Sinhala. Possibly true also for Ethio-Semitic languages, Korean and some Slavic languages depending on analysis.
+**Rectangular vowel systems** (I, E, Ʌ, A, O, U) are common across the entire continent of Eurasia: Germanic, Uralic, Turkic, Indo-Iranian, Tibetic, Wu, many NE-Caucasian languages and Sinhala. Possibly true also for Ethio-Semitic languages, Korean and some Slavic languages depending on analysis.
 
 **Ge'ez**, one of the oldest written languages in the Horn of Africa, though today only used as the main liturgical language in some Ethiopian and Eritrean churches, had the six vowel system and a central vowel {Y} [ɨ]. This fact is reflected to this day in the romanization of Ethio-Semitic languages with the transcription of {Ʌ} with 'Ä', whose pronunciation today ranges from [æ] to [ɐ].
 
@@ -37,36 +37,68 @@ Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, n
 | will    | volja   | volja    | vůle   | vôľa    | wola      | воля      | воля    | воля       | воля      | воља    | волја      |          |
 | IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       | [ä]➝[æ] |
 |         |         |          |        |         |           |           |         |            |           |         |            |          |
+
+Rectangular 6-vowel system is present across major branches and families in:
+- **Indo-Aryan**: Sinhala
+- **Slavic**: Slovak and probably Czech
+- **Indo-Iranian**: Iranian, Dari, Tajik
+
+Rectangular 7-vowel system that distinguishes *one* unrounded central or back vowel, {Y} or {Ⳟ}:
+- **Indo-Iranian**: Pashto, Ossetian
+- **Tibeto-Burman**: Loloish
+- **Ethio-Semitic**: Amharic, Tigrinya
+- **Hmong-Mien**: Iu Mien
+
+Rectangular 8-vowel system that distinguishes *both* rounded front vowels, {Ʉ} & {Ɵ}:
+- **Germanic**: All but the Dutch
+- **Tibeto-Burman**: Tibetan, Dzongkha
+- **Uralic**: Hungarian, Finnish
+- **NW-Caucasian**: Chechen, Ingush
+
+Rectangular 8-vowel system that distinguishes *both* unrounded central or back vowels, {Y} or {Ⳟ}:
+- **Indo-Aryan**: Kashmiri
+
+Rectangular 9-vowel system that distinguishes *both* rounded front vowels {Ʉ} & {Ɵ}, and *one* unrounded central or back vowel, {Y} or {Ⳟ}:
+- **Slavic**: Russian, arguably, and probably Belarusian
+- **Turkic**: All but Uzbek
+- **Uralic**: Estonian, Mari, Udmurt, Moksha
+
+Rectangular 10-vowel system that distinguishes *both* rounded front vowels {Ʉ} & {Ɵ}, and *both* unrounded central or back vowels, {Y} or {Ⳟ}:
+- **Sinitic**: Wu languages
+
 #### Triangular vowel system
 
 **Arabic and Berberic** languages distinguish only three vowels: I, A, U, which have a wide range of allophones.
 
-The triangular 5-vowel system is probably the most common vowel system. Across major branches and families it's present in:
+Triangular 5-vowel system is probably the most common vowel system. Across major branches and families it's present in:
 - **Romance**: Spanish & Italian
+- **Slavic**: Balkan Slavic languages
+- **Dravidian**: Telugu, Tamil,	Kannada
+- **Indo-Iranian**: Kurdish
 - **Paleo-Balkan**: Greek
 
-The triangular 6-vowel system that distinguishes *one* unrounded central or back vowel, {Y} or {Ⳟ}:
-- **Sinitic**: Hokkien, Teochew, Hakka, Gan
+Triangular 6-vowel system that distinguishes *one* unrounded central or back vowel, {Y} or {Ⳟ}:
+- **Sinitic**: Hokkien, Teochew, Hakka
+- **Slavic**: Polish, Ukrainian, Bulgarian
 - **Austronesian**: Javanese, Madurese
 - **Dravidian**: Malayalam, Kodava, Tulu
 - **Kra-Dai**: Zhuang, Bouyei
 - **Tibeto-Burman**: Meitei
 - **Paleo-Balkan**: Armenian
 - **American**: Guarani, Arawakan
-- **Hmong-Mien**: Hmong, Iu Mien
+- **Hmong-Mien**: Hmong
 - **Caucasian**: Dargwa
 - **Celtic**: Welsh
 
-The triangular 7-vowel system that distinguishes *both* the near-close {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels:
+Triangular 7-vowel system that distinguishes *both* the near-close {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels:
 - **Romance**: Portuguese, maybe French (see details below)
 - **Indo-Aryan**: The majority except for Marathi, Odia, Nepali, Sinhala, and Chhattisgarhi
 - **Bantoid**: Gikuyu, Lingala, Sepedi
 - **West-African**: Yoroba, Manding langs
 - **Nilotic**: Nobiin, Maasai, Dinka
 
-The triangular 7-vowel system that distinguishes *both* unrounded central or back vowels, {Y} & {Ⳟ}
+Triangular 7-vowel system that distinguishes *both* unrounded central or back vowels, {Y} & {Ⳟ}
 - **Romance**: Romanian
-- **Indo-Aryan**: Kashmiri
 - **Austronesian**: Sundanese
 - **Korean**: For some speakers
 - **Tibeto-Burman**: Nyishi
@@ -74,18 +106,21 @@ The triangular 7-vowel system that distinguishes *both* unrounded central or bac
 - **Saharan**: Kanuri
 - **Oto-Manguean**: Otomi
 
-The triangular 8-vowel system that distinguishes *both* the near-close {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels, and *one* unrounded central or back vowel, {Y} or {Ⳟ}:
+Triangular 8-vowel system that distinguishes *both* the near-close {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels, and *one* unrounded central or back vowel, {Y} or {Ⳟ}:
 - **Austroasiatic**: Santali
 - **Tibeto-Burman**: Burmese
 - **West-African**: Ewe, Wolof
 
-The triangular 8-vowel system that distinguishes *both* unrounded central or back vowels {Y} & {Ⳟ}, and a rounded close front vowel, {Ʉ}:
-- **Sinitic**: Mandarin, Jin
-
-The triangular 9-vowel system that distinguishes *both* the near-close, {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels, and *both* unrounded central or back vowels, {Y} & {Ⳟ}:
+Triangular 9-vowel system that distinguishes *both* the near-close, {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels, and *both* unrounded central or back vowels, {Y} & {Ⳟ}:
 - **Austroasiatic**: Vietnamese, Khmer, Mon
 - **Kra-Dai**: Thai, Shan, Lao
 - **Tibeto-Burman**: Karenic
+
+Triangular vowel systems that distinguish a rounded close front vowel, {Ʉ}:
+- **Sinitic**: Mandarin, Jin (Also *both* unrounded central and back vowels, {Y} & {Ⳟ}) and Cantonese (Also a rounded mid front vowel, {Ɵ})
+- **Paleo-Balkan**: Albanian (Also *one* unrounded central and back vowels, {Ⳟ})
+- **Tungusic**: Xibe (Also a rounded mid front vowel, {Ɵ})
+- **Mongolic**: Mongolian (Also a rounded mid front vowel, {Ɵ})
 
 #### Vertical vowel system
 Rare outside of NW-Caucasian and marginal Chadic languages. Often compensated with strong labialization and/or palatalization. Front and back vowels occur as allophones.
