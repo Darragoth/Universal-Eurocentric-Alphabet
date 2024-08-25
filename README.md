@@ -10,15 +10,15 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 - All novel letters were designed to require the *least number of inputs* without sacrificing graphic harmony and unity between the letters.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
-The vowel systems of practically all languages can be described with three principal categories: rectangular, triangular, and vertical. {Ʉ} & {Ɵ} occur often as pairs. Same is often true for {Y} & {Ⳟ} and {Ɛ} & {Ɔ}. 
+The vowel systems of practically all languages can be described with three principal categories: rectangular, triangular, and vertical. {Ʉ} & {Ɵ} occur often as pairs. Same is often true for {Y} & {Ⳟ} and {Ɛ} & {Ɔ}. Extremely rarely does one language distinguish both pairs, {Ʉ} & {Ɵ} and {Ɛ} & {Ɔ}. 
 
-| Rectangular   | Front    | Back     | --- | Triangular    | Front | Central | Back   | --- | Vertical      | Central |
-| :---          | :---:    | :---:    | --- | :---          | :---: | :---:   | :---:  | --- | :---          | :---:   |
-| **Closed**    | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U      | --- | **Closed**    |    Y    |
-| **Close-mid** |          |          | --- | **Close-mid** | E     |         | O      | --- | **Close-mid** |         |
-| **Mid**       | E \| *Ɵ* | *Ⳟ* \| O | --- | **Mid**       |       |   *Ⳟ*   |        | --- | **Mid**       |   *Ⳟ*   |
-| **Open-mid**  |          |          | --- | **Open-mid**  | *Ɛ*   |         | *Ɔ*    | --- | **Open-mid**  |         |
-| **Open**      |    Ʌ     |    A     | --- | **Open**      |       |    A    |        | --- | **Open**      |    A    |
+| Rectangular   | Front    | Back     | --- | Triangular    | Front | Central | Back  | --- | Vertical      | Central |
+| :---          | :---:    | :---:    | --- | :---          | :---: | :---:   | :---: | --- | :---          | :---:   |
+| **Closed**    | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U     | --- | **Closed**    |    Y    |
+| **Close-mid** |          |          | --- | **Close-mid** | E     |         | O     | --- | **Close-mid** |         |
+| **Mid**       | E \| *Ɵ* | *Ⳟ* \| O | --- | **Mid**       |       |   *Ⳟ*   |       | --- | **Mid**       |   *Ⳟ*   |
+| **Open-mid**  |          |          | --- | **Open-mid**  | *Ɛ*   |         | *Ɔ*   | --- | **Open-mid**  |         |
+| **Open**      |    Ʌ     |    A     | --- | **Open**      |       |    A    |       | --- | **Open**      |    A    |
 
 ### Vowel systems
 #### Rectangular vowel system
@@ -113,7 +113,7 @@ Triangular 8-vowel system that distinguishes *both* the near-close {E} & {O} and
 - **West-African**: Ewe, Wolof
 
 Triangular 9-vowel system that distinguishes *both* the near-close, {E} & {O} and the near-open {Ɛ} & {Ɔ} vowels, and *both* unrounded central or back vowels, {Y} & {Ⳟ}:
-- **Austroasiatic**: Vietnamese, Khmer, Mon
+- **Austroasiatic**: Vietnamese, Mon
 - **Kra-Dai**: Thai, Shan, Lao
 - **Tibeto-Burman**: Karenic
 
@@ -128,7 +128,14 @@ Rare outside of NW-Caucasian and marginal Chadic languages. Often compensated wi
 #### Other vowel systems
 **French** is cursed
 
-**Khmeric** has 10 base vowels.
+**Khmer** has 10 base vowels.
+| French        | Front   | Back  | --- | Khmer         | Central | Front | Central |
+| :---          | :---:   | :---: | --- | :---          | :---:   | :---: | :---:   |
+| **Closed**    | I \| Ʉ  |   U   | --- | **Closed**    |    I    |   Y   |    U    |
+| **Close-mid** | E \| Ɵ  |   O   | --- | **Close-mid** |    E    |       |    O    |
+| **Mid**       |         |       | --- | **Mid**       |         |   Ⳟ   |         |
+| **Open-mid**  |   Ɛ     |   Ɔ   | --- | **Open-mid**  |    Ɛ    |       |    Ɔ    |
+| **Open**      |   Ʌ     |   A   | --- | **Open**      |    A    |       |    Ʌ    |
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
