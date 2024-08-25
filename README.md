@@ -119,7 +119,7 @@ Triangular 9-vowel system that distinguishes *both* the near-close, {E} & {O} an
 
 Triangular vowel systems that distinguish a rounded close front vowel, {Ʉ}:
 - **Sinitic**: Mandarin, Jin (Also *both* unrounded central and back vowels, {Y} & {Ⳟ}) and Cantonese (Also a rounded mid front vowel, {Ɵ})
-- **Paleo-Balkan**: Albanian (Also *one* unrounded central and back vowels, {Ⳟ})
+- **Paleo-Balkan**: Albanian (Also *one* unrounded mid central or back vowel, {Ⳟ})
 - **Tungusic**: Xibe (Also a rounded mid front vowel, {Ɵ})
 - **Mongolic**: Mongolian (Also a rounded mid front vowel, {Ɵ})
 
