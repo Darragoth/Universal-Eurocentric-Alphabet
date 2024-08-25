@@ -24,7 +24,7 @@ The vowel systems of practically all languages can be described with three princ
 #### Rectangular vowel system
 **Rectangular vowel systems** (I, E, Ʌ, A, O, U) are common across the entire continent of Eurasia: Germanic, Uralic, Turkic, Indo-Iranian, Tibetic, Wu, many NE-Caucasian languages and Sinhala. Possibly true also for Ethio-Semitic languages, Korean and some Slavic languages depending on analysis.
 
-**Ge'ez**, one of the oldest written languages in the Horn of Africa, though today only used as the main liturgical language in some Ethiopian and Eritrean churches, had the six vowel system and a central vowel {Y} [ɨ]. This fact is reflected to this day in the romanization of Ethio-Semitic languages with the transcription of {Ʌ} with 'Ä', whose pronunciation today ranges from [æ] to [ɐ].
+**Ge'ez**, one of the oldest written languages in the Horn of Africa, though today only used as the main liturgical language in some Ethiopian and Eritrean churches, had the six vowel system and a central vowel {Y} [ɨ]. This fact is reflected to this day in the romanization of Ethio-Semitic languages in the transcription of {Ʌ} with 'Ä', whose pronunciation today ranges from [æ] to [ɐ].
 
 Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, notably, romanized as 'ae'. Indeed, the phonemes seem to be in a process of merging.
 
