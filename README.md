@@ -155,7 +155,7 @@ Very common, perhaps universal. Phonemic status not always certain. The French a
 A few langs like Acehnese, Dan (Mande), and Nasu (Loloish) distinguish *four* unrounded back vowels: Y [ɯ], Ұ [ɤ], ⵎ [ʌ], A [ä]. French *might* distinguish two rounded front vowels in addition to 'u' [y] {Ʉ}: j**eu**ne [ʒœn] (young) vs. j**eû**ne [ʒøn] (fast, verb), which could be denoted {Ɵ} [ø] & {Э} [œ]. Could be the only one of its kind or just French shenanigans.
 ## Consonants
 ### The Chart
-{H} and {‒} are unique. {H} [h] is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension before the next sound.
+{H} and {‒} are unique. {H} [h] is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension between sounds.
 ### Uncommon phonemes
 Bottom legend letters typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
 
@@ -203,7 +203,7 @@ Almost exclusive to the Indian subcontinent. Omnipresent in Indo-Aryan languages
 ### Velarization and Pharyngealization
 Rare outside of Arabic, Berberic and Caucasian langs. Usually restricted to consonants. Velarization and pharyngealization are different degrees of the same articulatory modification. The degree is not contrastive in any language. Two main consonants in this category are the epiglottal [ħ] & [ʕ], which are analysed as pharyngealized [h] and [ʔ] as in [hˤ] and [ʔˤ]. These two often appear in languages with no other *pharyngealized* consonants like in Ethio-Semitic and Cushitic languages around the Horn of Africa, where ejectives are the distinctive feature. Therefore, [ħ] could be denoted with {ʜ} and the diacritic for an ejective consonant, {ſ◌}, since no language distinguishes both a pharyngealized and an ejective [h] and the resulting sounds are very similar. The voiced pair of [ħ] is realized in a range of manners from an approximant [ʕ] to plosive [ʡ]. Much like J [j] is the fundamental consonant for palatals, so is the voiced epiglottal [ʕ][ʡ] for pharyngeals. This correspondence is reflected in the alphabet, where [ʕ][ʡ] is denoted without a diacritic, {⫰}.
 
-Denoted with a ring below, ◌̥: {T}➝{T̥} or in Arabic: {ت} ➝ {ط}. The ring is a placeholder. It's intended to connect to the letter, forming a droplet like diacritic.
+Denoted with a ring below, ◌̥: {T}➝{T̥} or in Arabic: {ت} ➝ {ط}. The ring is a placeholder. It is intended to connect to the letter, forming a droplet like diacritic.
 ### Glottalization
 Occurs as ejectives in East-African and Caucasian langs. Also present in Hausa, Fulani and Serer as both ejectives and implosives. Surprisingly, some Indo-Aryan langs have four  implosives, [ɓ], [ɗ], [ᶑ] and [ɠ]. Creaky-voicing is concentrated in Native Central American langs. Denoted with a righ hook above, ◌ᣗ: {κ}➝{ƙ}.
 ### Breathy-voicing and Aspiration
