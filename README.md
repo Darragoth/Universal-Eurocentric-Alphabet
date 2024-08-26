@@ -142,8 +142,8 @@ Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalizatio
 Occurs across language families. Usually restricted to vowels. Phonemic in French, Portuguese, Albanian, Wu, Jin, Min Nan, Indo-Aryan, Acehnese, Burmese, Hmong, Tamil, many West-African, and Nilo-Saharan langs. Denoted with a tilde above {◌̃} or below {◌̰}.
 #### Tonality
 Occurs everywhere except where white people live. Usually between 3 to 6 inherent pitch contours. Denoted with:
-- vertical line above {◌̍} for a high tone
-- vertical line below {◌̩} for a low tone
+- vertical line above {◌̄} for a high tone
+- vertical line below {◌̠} for a low tone
 - acute accent {◌́} for a rising tone
 - grave accent {◌̀} for a falling tone
 - caron {◌̌} for a dipping tone
