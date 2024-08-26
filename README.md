@@ -3,7 +3,7 @@
 
 The official IPA (International Phonetics Association) symbols are useful for academic accuracy, but utterly useless for practical writing purposes like an alphabet of a language. To represent every base vowel of, practically, all languages the Standard Latin Alphabet with 6 letters generally used for vowels (A, E, I, U, O, Y) would only need another 6 additional vowel letters: Ʌʌ, Ɵɵ, Ʉᵾ, Ɔɔ, Ɛɛ and Ⳟⳟ. Marginal cases would be covered by adding two more vowel letters: Ұ & Э. Similarly, 46 base consonants sufficiently describe the sounds of the vast majority of the world's languages.
 ## Notable features
-- Latin-Greek-Cyrillic-based and IPA inspired alphabet with 14 vowels and 46 consonants and 9 articulatory modifiers constituting altogether about 300 possible combinations or independent graphemes.
+- Latin-Greek-Cyrillic-based and IPA inspired alphabet with 14 vowels and 46 consonants and 9 articulatory modifiers constituting altogether about 300 possible combinations or, independent graphemes.
 - Used to write every language in the past, present and, hopefully, future.
 - Keyboard configuration: All 60 base letters configurable on most QWERTY and AZERTY variants, of which 24 require two inputs.
 - All 300 letters typeable with not more than 3 inputs using 3 modifier keys.
@@ -169,11 +169,11 @@ Bottom legend letters typeable with the central modifier key (◌̶ ) that adds 
 
 Common among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tungusic, and Hmongic langs.
 
-**Dental consonants**: a few langs distinguish [n],[t],[d] at two adjacent places of articulation, dental and alveolar: [Ꞥ}, {Ŧ}, {Ð} <=> {N}, {T}, {D}, respectively. In comparison, phonemic distinction of the non-sibilant dental fricatives [θ] & [ð] is much more common, hence dedicated symbols, {Ⴌ} & {Ƌ}.
+**Dental consonants**: a few langs distinguish [n],[t],[d] at two adjacent places of articulation, dental and alveolar: [Ꞥ}, {Ŧ}, {Ð} <=> {N}, {T}, {D}, respectively. In comparison, phonemic distinction of the non-sibilant dental fricatives [θ] & [ð] is much more common, hence the dedicated symbols, {Ⴌ} & {Ƌ}.
 
 **Lateral alveolar fricatives, Ꞩ [ɬ] & Ƶ [ɮ]**: Common among Bantoid, Tibeto-Burman, Zhuang, Hmongic, Native American, Caucasian langs and Welsh.
 
-**Lateral velar/uvular approximant [ʟ] or velarized alveolar approximant [ɫ], ᖶ**: Somewhat rare excluding allophony e.g. before back vowel. Present in Kurdish, Albanian, Papuan langs, Berberic, and maybe Turkish.
+**Lateral velar/uvular approximant [ʟ] or velarized alveolar approximant [ɫ], ᖶ**: Somewhat rare excluding allophony e.g. before back vowels. Present in Kurdish, Albanian, Papuan langs, Berberic, and maybe Turkish.
 
 **Voiceless alveolar trill, ᖉ [r̥]**: a rare gem. Present in Tibetan, Chechen, Ingush, Welsh, Moksha, and possibly Icelandic.
 
@@ -185,7 +185,7 @@ Most languages exhibit certain geographically distinctive features, which allow 
 
 In some cases, there is a distinctive *manner of articulation*. [Ejective](https://en.wikipedia.org/wiki/Ejective_consonant) and [implosive](https://en.wikipedia.org/wiki/Implosive_consonant) consonants constitute the glottalic consonants. There is also the issue of contrastive non-modal voicing of vowels. [Creaky-voiced](https://en.wikipedia.org/wiki/Creaky_voice) vowels are analysed as glottalic vowels. [Breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice) is analysed as [aspiration](https://en.wikipedia.org/wiki/Aspirated_consonant) in consonants. A few langs, however, contrast two sets of vowels, modal voiced and breathy voiced. Finally, there are the elusive click consonants in some African langs.
 
-The articulatory modifications are typeable on the keyboard with the lower modifier key, ⴼ̥̊:
+The articulatory modifications are typeable on the keyboard with the lower modifier key, (ⴼ̥̊):
 - [Palatalization](https://en.wikipedia.org/wiki/Palatalization_(phonetics)): {◌ȷ} [◌ʲ]
 - [Retroflex](https://en.wikipedia.org/wiki/Retroflex_consonant): {ɭ◌}
 - [Velarization](https://en.wikipedia.org/wiki/Velarization): {◌̥} [◌ˠ]
@@ -197,7 +197,7 @@ The articulatory modifications are typeable on the keyboard with the lower modif
   - [Breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice): {◌ɿ} [◌̤]
 - [Clicks](https://en.wikipedia.org/wiki/Click_consonant): {◌̊} [ʘ], [ǀ], [!], [!!], [ǂ]
 
-The first three modify the place of articulation. They practically never occur in one language, and since they are mutually exclusive as in they cannot be produced simultaneously in one phoneme, they are denoted using the lower box, while the latter three use the upper box. At most a language exhibits two articulatory modifications. Depending on the selected language one of these features is configured to first priority on the modifier key. The second modification could be typed with SHIFT and the third with AltGr or FN.
+The first three modify the *place* of articulation. They practically never occur in one language, and since they are mutually exclusive meaning they cannot be produced simultaneously in one phoneme, they are denoted using the lower box, while the latter three use the upper box. At most a language exhibits two articulatory modifications. Depending on the selected language one of these features is configured to first priority on the modifier key. The second modification could be typed with SHIFT and the third with AltGr or FN.
 ### Palatalization
 One of the most common phonemes in general, though in many languages the only palatal consonant is the approximant {J} [j]. While the nasal approximant [ɲ] occurs very commonly beside [j] across all language families, it can be analyzed and represented also as a nasalized palatal approximant {J̃}. Other palatals are comparatively rarer. Additionally, palatalization occurs among Romance langs as [ʎ], and as [c] and [ɟ] among Slavic, Uralic, Celtic langs, Albanian and Basque. Also common in Bantoid & Native American langs, Zhuang, and Jingpo. Polish and Russian palatalize all but two or three of their consonants. Denoted with a left hook below, ̡◌: {N}➝{Ɲ}.
 ### Retroflex consonants
