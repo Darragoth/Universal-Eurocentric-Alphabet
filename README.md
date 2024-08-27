@@ -223,8 +223,8 @@ Chiquihuitlán Mazatec might be the ultimate example of non-standard phonation. 
 ## General issues and challenges
 ### The issue of allophony
 Color coding on the chart demonstrates the most common allophones. The orthography of a language should include letters requiring the least amount of inputs without sacrificing graphic harmony and phonemic precision. For example, in English [ɸ] would be transcribed as {F} or {P} instead of {Ⴔ}, or in Russian and Turkish [d̪] would be transcribed {D} instead of {Ð}, or in Arabic and Iranian [χ] would be transcribed {X} instead of {Ӿ}.
-### Division of world by Y & J
-Mainly thanks to colonialist policies of the English and and Latin countries most of the world associates ypsilon, Y, with the palatal approximant, [j], while in the Nordic countries it stands for the rounded close front vowel, [y], and five Slavic countries use it to transcribe the unrounded close central vowel, [ɨ]. 
+### Division of the world by Y & J
+Primarily thanks to colonialist policies of the English, French, Portuguese, and Spanish most of the world associates ypsilon, 'Y', with the palatal approximant, [j], while in the Nordic countries and Albanian it stands for the rounded close front vowel, [y], while five Slavic langs, Welsh, and Guarani use it to transcribe the unrounded close central vowel, [ɨ]. In contrast, 'J' is used to transcribe various sounds in the world's languages such as [dʒ] in English and it's previously colonial subjects, [ʒ] in French, Portuguese and Turkish, [x] in Spanish, [ɟ] in Yoruba and Swahili, and finally [j] in all other Germanic, Uralic, Slavic, Baltic langs, and Italian.
 ## Sample text
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
 (Iz Universalnoj Deklaracije Prav Člověka, členòk 1)
