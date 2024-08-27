@@ -235,11 +235,11 @@ The brief history of [d͡ʒ] conquering the world as 'J' is as follows. In Old E
 
 In tandem, the letter 'Y' was used to represent the sound /y/ in Old English, as Latin 'u', 'y' and 'i' were all used to represent distinct vowel sounds. But, by the time of Middle English, /y/ had lost its roundedness and became identical to 'i'. From there, 'Y' replaced letter yogh, 'Ȝ', where it stood for the palatal approximant [j]. Therefore, the origin of the schism and all confusion thereafter took place sometime during the transition from Vulgar Latin to Old French, when the Latin long 'ū' [u:] developed into [y] and 'i' developed three pronunciations: [i][j][d͡ʒ].
 
-|             | Old Eng. | Mid Eng. | Cla Eng. | Writing | --- | Vul. Latin | Old Fre. | Cla Fre. | Writing |
-| :---:       | :---:    | :---:    | :---:    | :---:   | --- | :---:      | :---:    | :---:    | :---:   |
-| Vowel       | /y/      | /i/      | /i/      | 'Y y'   | --- | /u:/       | /y/      | /y/      | 'U u'   |
-| Approximant | 'Ȝ ȝ'    | 'Y y'    | 'Y y'    | /j/     | --- | 'J j/I i'  | 'I i'    | 'Y y'    | /j/     |
-| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/    | --- |     -      | 'I i'    | 'J J'    | /d͡ʒ→ʒ/  |
+|             | Old Eng. | Mid Eng. | Cla Eng. |       | --- | Vul. Latin | Old Fre.  | Cla Fre. |       |
+| :---:       | :---:    | :---:    | :---:    | :---: | --- | :---:      | :---:     | :---:    | :---: |
+| Vowel       | /y/      | /i/      | /i/      | 'Y y' | --- | /u:/       | /y/       | /y/      | 'U u' |
+| Approximant | 'Ȝ ȝ'    | 'Y y'    | 'Y y'    | /j/   | --- | 'J j/I i'  | 'I i/J j' | 'Y y'    | /j/   |
+| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/  | --- |     -      | 'I i/J j' | 'J J'    | /d͡ʒ→ʒ/|
 
 ## Sample text
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
