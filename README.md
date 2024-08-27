@@ -235,12 +235,12 @@ The brief history of [d͡ʒ] conquering the world as 'J' is as follows. In Old E
 
 The ancient Romans used the letter 'Y', *Greek I*, to represent the sound /y/ in romanized Greek words since the 1st century and, consequently, in Old English. By the time of Middle English, however, /y/ had lost its roundedness and became identical to 'i'. During Middle English, 'Y' replaced letter yogh, 'Ȝ', where it stood for the palatal approximant [j]. Therefore, the origin of the schism and all confusion thereafter took place sometime during the transition from Vulgar Latin to Old French, when the Latin long 'ū' [u:] developed into [y] and 'i' developed three pronunciations, [i][j][d͡ʒ]. These weren't distinguished in orthography until the late 17th century reforms, which added 'V' and 'J' to the Latin alphabet and began the Classical or Modern French era. Ignoring all historical precedents, the French assigned 'J' to [ʒ] and the long obsolete 'Y' to [j], despite the origins of 'Y', inspired by the Greek letter upsilon that was used to transcribe /y/ - a vowel the French had developed since Old French.
 
-|             | Old Eng. | Mid Eng. | Mod Eng. |       | -- | Old Latin | Old Fre.  | Mod Fre. |       |
-| :---:       | :---:    | :---:    | :---:    | :---: | -- | :---:     | :---:     | :---:    | :---: |
-| Years       | 500-1066 | 1066-1500| > 1600   |       | -- | < 900     | 900-1450  | > 1700   |       |
-| Vowel       | /y/      | /i/      | /i/      | 'Y y' | -- | /u:/      | /y/       | /y/      | 'U u' |
-| Approximant | 'Ᵹ ᵹ'    | 'Ȝ ȝ'    | 'Y y'    | /j/   | -- | 'J j/I i' | 'I i'     | 'Y y'    | /j/   |
-| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/  | -- |     -     | 'I i/G g' | 'J j/G g'| /d͡ʒ→ʒ/|
+|             | Old Eng. | Mid Eng. | Mod Eng. |       | - | Old Latin | Old Fre. | Mod Fre. |       |
+| :---:       | :---:    | :---:    | :---:    | :---: | - | :---:     | :---:    | :---:    | :---: |
+| Years       | 500-1066 | 1066-1500| > 1600   |       | - | < 900     | 900-1450 | > 1700   |       |
+| Vowel       | /y/      | /i/      | /i/      | 'Y y' | - | /u:/      | /y/      | /y/      | 'U u' |
+| Approximant | 'Ᵹ ᵹ'    | 'Ȝ ȝ'    | 'Y y'    | /j/   | - | 'J j/I i' | 'I i'    | 'Y y'    | /j/   |
+| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/  | - |     -     | 'I i/G g'| 'J j/G g'| /d͡ʒ→ʒ/|
 
 ## Sample text
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
