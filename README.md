@@ -233,14 +233,14 @@ Primarily thanks to colonialist policies of the English, French, Portuguese, and
 
 The brief history of [d͡ʒ] conquering the world as 'J' is as follows. In Old English (~500-1066), /dʒ/ was transcribed with 'cᵹ', as 'ᵹ' was simply the regular form of the letter G, called Insular G. After the Norman Conquest of 1066, English was replaced for several centuries by Anglo-Norman, a type of French, as the language of the upper classes. Middle English (1066-1629) scribes used 'i' and later 'j' to represent word-initial /dʒ/ under the influence of Old French, which also had a /dʒ/ deriving from Latin /j/ for example, iest and later jest. The same sound in other positions could be spelled as 'dg' like in 'hedge'. The first English language books to distinguish between 'i' and 'j' were the King James Bible 1st Revision Cambridge 1629 and an English grammar book published in 1633.
 
-In tandem, the letter 'Y' was used to represent the sound /y/ in Old English, as Latin 'u', 'y' and 'i' were all used to represent distinct vowel sounds. But, by the time of Middle English, /y/ had lost its roundedness and became identical to 'i'. From there, 'Y' replaced letter yogh, 'Ȝ', where it stood for the palatal approximant [j]. Therefore, the origin of the schism and all confusion thereafter took place sometime during the transition from Vulgar Latin to Old French, when the Latin long 'ū' [u:] developed into [y] and 'i' developed three pronunciations: [i][j][d͡ʒ].
+In tandem, the letter 'Y' was used to represent the sound /y/ in romanization of Greek since the 1st century and, consequently, in Old English. By the time of Middle English, however, /y/ had lost its roundedness and became identical to 'i'. During Middle English, 'Y' replaced letter yogh, 'Ȝ', where it stood for the palatal approximant [j]. Therefore, the origin of the schism and all confusion thereafter took place sometime during the transition from Vulgar Latin to Old French, when the Latin long 'ū' [u:] developed into [y] and 'i' developed three pronunciations: [i][j][d͡ʒ].
 
 |             | Old Eng. | Mid Eng. | Mod Eng. |       | --- | Vul. Latin | Old Fre.  | Mod Fre. |       |
 | :---:       | :---:    | :---:    | :---:    | :---: | --- | :---:      | :---:     | :---:    | :---: |
-| Years       | 500-1066 | 1066-1500| > 1600   | 'Y y' | --- | < 900      | 900-1450  | >1700    | 'U u' |
+| Years       | 500-1066 | 1066-1500| > 1600   |       | --- | < 900      | 900-1450  | > 1700   |       |
 | Vowel       | /y/      | /i/      | /i/      | 'Y y' | --- | /u:/       | /y/       | /y/      | 'U u' |
-| Approximant | 'Ȝ ȝ'    | 'Y y'    | 'Y y'    | /j/   | --- | 'J j/I i'  | 'I i/J j' | 'Y y'    | /j/   |
-| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/  | --- |     -      | 'I i/J j' | 'J J'    | /d͡ʒ→ʒ/|
+| Approximant | 'Ᵹ ᵹ'    | 'Ȝ ȝ'    | 'Y y'    | /j/   | --- | 'J j/I i'  | 'I i'     | 'Y y'    | /j/   |
+| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/  | --- |     -      | 'I i/G g' | 'J J/G g'| /d͡ʒ→ʒ/|
 
 ## Sample text
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
