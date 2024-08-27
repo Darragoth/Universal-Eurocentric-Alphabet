@@ -224,7 +224,23 @@ Chiquihuitlán Mazatec might be the ultimate example of non-standard phonation. 
 ### The issue of allophony
 Color coding on the chart demonstrates the most common allophones. The orthography of a language should include letters requiring the least amount of inputs without sacrificing graphic harmony and phonemic precision. For example, in English [ɸ] would be transcribed as {F} or {P} instead of {Ⴔ}, or in Russian and Turkish [d̪] would be transcribed {D} instead of {Ð}, or in Arabic and Iranian [χ] would be transcribed {X} instead of {Ӿ}.
 ### Division of the world by Y & J
-Primarily thanks to colonialist policies of the English, French, Portuguese, and Spanish most of the world associates ypsilon, 'Y', with the palatal approximant, [j], while in the Nordic countries and Albanian it stands for the rounded close front vowel, [y], while five Slavic langs, Welsh, and Guarani use it to transcribe the unrounded close central vowel, [ɨ]. In contrast, 'J' is used to transcribe various sounds in the world's languages such as [dʒ] in English and it's previously colonial subjects, [ʒ] in French, Portuguese and Turkish, [x] in Spanish, [ɟ] in Yoruba and Swahili, and finally [j] in all other Germanic, Uralic, Slavic, Baltic langs, and Italian.
+Primarily thanks to colonialist policies of the English, French, Portuguese, and Spanish most of the world associates upsilon, 'Y', with the palatal approximant, [j], while in the Nordic countries and Albanian it stands for the rounded close front vowel, [y], while five Slavic langs, Welsh, and Guarani use it to transcribe the unrounded close central vowel, [ɨ]. In contrast, 'J' is used to transcribe various sounds in the world's languages such as [dʒ] in English and it's previously colonial subjects, [ʒ] in French, Portuguese and Turkish, [x] in Spanish, [ɟ] in Yoruba and Swahili, and finally [j] in all other Germanic, Uralic, Slavic, Baltic langs, and Italian.
+
+|       | English | French | Spanish | Portuguese | Italian | German | Swedish | Finnish | Polish | Welsh | Albanian | Turkish |
+| :---: | :---:   | :---:  | :---:   | :---:      | :---:   | :---:  | :---:   | :---:   | :---:  | :---: | :---:    | :---:   |
+| 'J'   | /d͡ʒ/    | /ʒ/    | /x/     | /ʒ/        | /j/,/ʒ/ | /j/    | /j/     | /j/     | /j/    | /d͡ʒ/  | /j/      | /ʒ/     |
+| 'Y'   | /j/,/i/ | /j/    | /j/     | /j/        | /j/     | /i/    | /y/     | /y/     | /ɨ/    | /ɨ/   | /y/      | /j/     |
+
+The brief history of [d͡ʒ] conquering the world as 'J' is as follows. In Old English (~500-1066), /dʒ/ was transcribed with 'cᵹ', as 'ᵹ' was simply the regular form of the letter G, called Insular G. After the Norman Conquest of 1066, English was replaced for several centuries by Anglo-Norman, a type of French, as the language of the upper classes. Middle English (1066-1629) scribes used 'i' and later 'j' to represent word-initial /dʒ/ under the influence of Old French, which also had a /dʒ/ deriving from Latin /j/ for example, iest and later jest. The same sound in other positions could be spelled as 'dg' like in 'hedge'. The first English language books to distinguish between 'i' and 'j' were the King James Bible 1st Revision Cambridge 1629 and an English grammar book published in 1633.
+
+In tandem, the letter 'Y' was used to represent the sound /y/ in Old English, as Latin 'u', 'y' and 'i' were all used to represent distinct vowel sounds. But, by the time of Middle English, /y/ had lost its roundedness and became identical to 'i'. From there, 'Y' replaced letter yogh, 'Ȝ', where it stood for the palatal approximant [j]. Therefore, the origin of the schism and all confusion thereafter took place sometime during the transition from Vulgar Latin to Old French, when the Latin long 'ū' [u:] developed into [y] and 'i' developed three pronunciations: [i][j][d͡ʒ].
+
+|             | Old Eng. | Mid Eng. | Cla Eng. | Writing | --- | Vul. Latin | Old Fre. | Cla Fre. | Writing |
+| :---:       | :---:    | :---:    | :---:    | :---:   | --- | :---:      | :---:    | :---:    | :---:   |
+| Vowel       | /y/      | /i/      | /i/      | 'Y y'   | --- | /u:/       | /y/      | /y/      | 'U u'   |
+| Approximant | 'Ȝ ȝ'    | 'Y y'    | 'Y y'    | /j/     | --- | 'J j/I i'  | 'I i'    | 'Y y'    | /j/     |
+| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/    | --- |     -      | 'I i'    | 'J J'    | /d͡ʒ→ʒ/  |
+
 ## Sample text
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
 (Iz Universalnoj Deklaracije Prav Člověka, členòk 1)
