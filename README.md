@@ -14,7 +14,7 @@ The vowel systems of practically all languages can be described with three princ
 
 | Rectangular   | Front    | Back     | --- | Triangular    | Front | Central | Back  | --- | Vertical      | Central |
 | :---          | :---:    | :---:    | --- | :---          | :---: | :---:   | :---: | --- | :---          | :---:   |
-| **Closed**    | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U     | --- | **Closed**    |    Y    |
+| **Close**     | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U     | --- | **Closed**    |    Y    |
 | **Close-mid** |          |          | --- | **Close-mid** | E     |         | O     | --- | **Close-mid** |         |
 | **Mid**       | E \| *Ɵ* | *Ⳟ* \| O | --- | **Mid**       |       |   *Ⳟ*   |       | --- | **Mid**       |   *Ⳟ*   |
 | **Open-mid**  |          |          | --- | **Open-mid**  | *Ɛ*   |         | *Ɔ*   | --- | **Open-mid**  |         |
