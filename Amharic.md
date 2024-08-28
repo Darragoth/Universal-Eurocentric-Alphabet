@@ -17,7 +17,7 @@
 | Stop/Affricate| Voiced   |  B ʙ   |   D ᴅ    |   🝘 џ   |  G ɢ  |
 | Stop/Affricate| Ejective |  Ƥ ᴘ◌֜  |   T̉ ᴛ◌֜   |   Ч◌֜ ч◌֜ |  Ƙ ƙ  |
 | Fricative     | Tenuis   |  F ꜰ   |   S s    |   Ш ш   |       |
-| Fricative     | Ejective |        |   Z z    |   Ж ж   |       |
-| Fricative     | Ejective |        |   S◌֜ s◌֜  |   R ʀ   |       |
+| Fricative     | Voiced   |        |   Z z    |   Ж ж   |       |
+| Fricative     | Ejective |        |   S◌֜ s◌֜  |         |       |
 | Approximant   |          |  ꟽ ᥕ  |   L ʟ    |   J ᴊ   |  H н  |
 | Approximant   |          |        |   R ʀ    |         |       |
