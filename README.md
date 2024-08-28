@@ -29,6 +29,7 @@ The vowel systems of practically all languages can be described with three princ
 Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, notably, romanized as 'ae'. Indeed, the phonemes seem to be in a process of merging.
 
 **Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach. These five languages also distinguish a central vowel {Y} [ɨ], which is transcribed in Latin with 'y'. Interestingly, Slovaks transcribe [æ] with 'Ä'.
+
 | English | Slovene | Croatian | Czech  | Slovak  | Polish    | Ukrainian | Russian | Belarusian | Bulgarian | Serbian | Macedonian |          |
 | :---    | :---:   | :---:    | :---:  | :---:   | :---:     | :---:     | :---:   | :---:      | :---:     | :---:   | :---:      | :---     |
 | smell   | vonj    | njuh     | ňuch   | ňuch    | węch      | нюх       | нюх     | нюх        | нюх       | њух     | мирис      |          |
@@ -37,7 +38,6 @@ Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, n
 | IPA     | tetka   | tetka    | tetka  | tetka   | t͡sʲɵt͡sʲka | tʲitka    | tʲɵtka  | t͡sʲɵtka    | tetka     | tetka   | tetka      | [o]➝[ɵ] |
 | will    | volja   | volja    | vůle   | vôľa    | wola      | воля      | воля    | воля       | воля      | воља    | волја      |          |
 | IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       | [ä]➝[æ] |
-|         |         |          |        |         |           |           |         |            |           |         |            |          |
 
 Rectangular 6-vowel system is present across major branches and families in:
 - **Indo-Aryan**: Sinhala
@@ -136,6 +136,7 @@ Rare outside of NW-Caucasian and marginal Chadic languages. Often compensated wi
 | **Mid**       |         |       | --- | **Mid**       |         |   Ⳟ   |         |
 | **Open-mid**  |   Ɛ     |   Ɔ   | --- | **Open-mid**  |    Ɛ    |       |    Ɔ    |
 | **Open**      |   Ʌ     |   A   | --- | **Open**      |    A    |       |    Ʌ    |
+
 ### Transphonologization
 Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will begin problems with rendering.
 #### Nasalization [~]
@@ -157,9 +158,9 @@ A few langs like Acehnese, Dan (Mande), and Nasu (Loloish) distinguish *four* un
 ### Consonant Chart
 ![Consonant chart](Consonants_25-8-2024.jpeg)
 
-{H} and {‒} are unique. {H} [h] is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension between sounds.
+{H} and {‒} are unique. {H} is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension between sounds.
 ### Uncommon phonemes
-Bottom legend letters typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
+Typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
 
 **Uvular consonants**: several langs distinguish at least one uvular consonant, usually {₭} [q]. These are analysed in contrast to their velar counterparts:
 |        | Nasal | Plosive        | Fricative          |
@@ -235,12 +236,12 @@ The brief history of [d͡ʒ] conquering the world as 'J' is as follows. In Old E
 
 The ancient Romans used the letter 'Y', *Greek I*, to represent the sound /y/ in romanized Greek words since the 1st century and, consequently, in Old English. By the time of Middle English, however, /y/ had lost its roundedness and became identical to 'i'. During Middle English, 'Y' replaced letter yogh, 'Ȝ', where it stood for the palatal approximant [j]. Therefore, the origin of the schism and all confusion thereafter took place sometime during the transition from Vulgar Latin to Old French, when the Latin long 'ū' [u:] developed into [y] and 'i' developed three pronunciations, [i][j][d͡ʒ]. These weren't distinguished in orthography until the late 17th century reforms, which added 'V' and 'J' to the Latin alphabet and began the Classical or Modern French era. Ignoring all historical precedents, the French assigned 'J' to [ʒ] and the long obsolete 'Y' to [j], despite the origins of 'Y', inspired by the Greek letter upsilon that was used to transcribe /y/ - a vowel the French had developed since Old French.
 
-|             | Old Eng. | Mid Eng. | Mod Eng. |       | - | Old Latin | Old Fre. | Mod Fre. |     |
-| :---:       | :---:    | :---:    | :---:    | :---: | - | :---:     | :---:    | :---:    |:---:|
-| Years       | 500-1066 | 1066-1500| > 1600   |       | - | < 900     | 900-1450 | > 1700   |     |
-| Vowel       | /y/      | /i/      | /i/      | 'Y y' | - | /u:/      | /y/      | /y/      | 'u' |
-| Approximant | 'Ᵹ ᵹ'    | 'Ȝ ȝ'    | 'Y y'    | /j/   | - | 'J j/I i' | 'I i'    | 'Y y'    | /j/ |
-| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/  | - |     -     | 'I i/G g'| 'J j/G g'| /ʒ/ |
+|             | Old Eng. | Mid Eng. | Mod Eng. |      | - | Old Latin | Old Fre. | Mod Fre. |     |
+| :---:       | :---:    | :---:    | :---:    | :---:| - | :---:     | :---:    | :---:    |:---:|
+| Years       | 500-1066 | 1066-1500| > 1600   |      | - | < 900     | 900-1450 | > 1700   |     |
+| Vowel       | /y/      | /i/      | /i/      | 'y'  | - | /u:/      | /y/      | /y/      | 'u' |
+| Approximant | 'Ᵹ ᵹ'    | 'Ȝ ȝ'    | 'Y y'    | /j/  | - | 'J j/I i' | 'I i'    | 'Y y'    | /j/ |
+| Consonant   | 'CꝽ cᵹ'  | 'j/i/dg' | 'J j/dg' | /d͡ʒ/ | - |           | 'I i/G g'| 'J j/G g'| /ʒ/ |
 
 ## Sample text
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
