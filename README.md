@@ -208,7 +208,7 @@ Rare outside of Arabic, Berberic and Caucasian langs. Usually restricted to cons
 
 Denoted with a ring below, ◌̥: {T}➝{T̥} or in Arabic: {ت} ➝ {ط}. The ring is a placeholder. It is intended to connect to the letter, forming a droplet like diacritic.
 ### Glottalization
-Occurs as ejectives in East-African and Caucasian langs. Also present in Hausa, Fulani and Serer as both ejectives and implosives. Surprisingly, some Indo-Aryan langs have four  implosives, [ɓ], [ɗ], [ᶑ] and [ɠ]. Creaky-voicing is concentrated in Native Central American langs. Denoted with a righ hook above, ◌ᣗ: {κ}➝{ƙ}.
+Occurs as ejectives in East-African and Caucasian langs. Also present in Hausa, Fulani and Serer as both ejectives and implosives. Surprisingly, some Indo-Aryan langs have four  implosives, [ɓ], [ɗ], [ᶑ] and [ɠ]. Creaky-voicing is concentrated in Native Central American langs. There is also the curious case of the "tense" consonants of Korean. Denoted with a righ hook above, ◌ᣗ: {κ}➝{ƙ}.
 ### Breathy-voicing and Aspiration
 Extremely rare in vowels. Analysed as aspiration in consonants, thus denoted as {н <=> ᴘн, ᴛн, κн}. Dinka (Nilotic) and Mon (Austroasiatic) contrast two sets of vowels, modal voiced and breathy voiced. Denoted with a left hook above, ɿ◌: {ỏ}.
 ### Click consonants
