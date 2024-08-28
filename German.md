@@ -18,4 +18,4 @@
 | Fricative     | Tenuis |  V v   |   C c    |      Ш ш      |   Ӽ ӽ   |  X x  |
 | Fricative     | Voiced |  F ꜰ   |   S s    |      Ж ж      |         |       |
 | Approximant   |        |        |   L ʟ    |               |   J ᴊ   |  H н  |
-| Trill         |        |        |   R ʀ    |               |   J ᴊ   |       |
+| Trill         |        |        |   R ʀ    |               |         |       |
