@@ -2,7 +2,7 @@
 
 | Triangular    | Front | Central | Back  |
 | :---          | :---: | :---:   | :---: |
-| **Closed**    | I • Ʉ |   *Y*   |     U |
+| **Close**     | I • Ʉ |   *Y*   |     U |
 | **Close-mid** |       |         |       |
 | **Mid**       |   E   |   *Ⳟ*   |   O   |
 | **Open-mid**  |       |         |       |
