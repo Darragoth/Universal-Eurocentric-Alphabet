@@ -14,7 +14,7 @@
 | :---        | :---:   | :---:  | :---:    | :---:     | :---:   | :---: |
 | Nasal       |         |  Ϻ ᴍ   |   N ɴ    |           |         |  И ᴎ  |   
 | Stop        |Aspirated|  P ᴘ   |   T ᴛ    |           |         |  Κ κ  |
-| Stop        | Tenuis  |  B ʙ   |   D ᴅ    |           |         |  Ԍ ԍ  |
+| Stop        | Tenuis  |  B ʙ   |   D ᴅ    |           |         |  G ɢ  |
 | Affricative |Aspirated|        |   C c    |    Ч ч    |   Ч ч   |       |
 | Affricative | Tenuis  |        |   Z z    |    🝘 џ    |   🝘 џ   |       |
 | Fricative   |         |  F ꜰ   |   S s    |    Ш ш    |   Ш ш   |       |
