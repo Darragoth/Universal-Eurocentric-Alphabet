@@ -15,7 +15,7 @@
 | Nasal         |        |  Ϻ ᴍ   |   N ɴ    |         |       |
 | Stop/Affricate| Tenuis |  P ᴘ   |   T ᴛ    |   Ч ч   |  Κ κ  |
 | Stop/Affricate| Voiced |  B ʙ   |   D ᴅ    |   🝘 џ   |  G ɢ  |
-| Fricative     | Tenuis |  V v   |   S s    |   Ш ш   |       |
-| Fricative     | Voiced |  F ꜰ   |   Z z    |   Ж ж   |       |
+| Fricative     | Tenuis |  F ꜰ   |   S s    |   Ш ш   |       |
+| Fricative     | Voiced |  V v   |   Z z    |   Ж ж   |       |
 | Approximant   |        |  H н   |   L ʟ    |   J ᴊ   |  𑄷 ᴕ  |
 | Trill         |        |        |   R ʀ    |         |       |
