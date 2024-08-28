@@ -17,5 +17,5 @@
 | Stop/Affricate| Voiced |  B ʙ   |   D ᴅ    |      🝘 џ      |         |  G ɢ  |
 | Fricative     | Tenuis |  V v   |   S s    |      Ш ш      |   Ӽ ӽ   |  X x  |
 | Fricative     | Voiced |  F ꜰ   |   Z z    |      Ж ж      |         |       |
-| Approximant   |        |        |   L ʟ    |               |   J ᴊ   |  H н  |
+| Approximant   |        |        |   L ʟ    |      H н      |   J ᴊ   |       |
 | Trill         |        |        |   R ʀ    |               |         |       |
