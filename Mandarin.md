@@ -12,7 +12,7 @@
 
 |             |         | Labial | Alveolar | Retroflex | Palatal | Velar |
 | :---        | :---:   | :---:  | :---:    | :---:     | :---:   | :---: |
-| Nasal       |         |  Ϻ ᴍ   |   N ɴ    |           |         |  И ᴎ  |   
+| Nasal       |         |  Ϻ ᴍ   |   N ɴ    |           |         |  И ᴎ  |
 | Stop        |Aspirated|  P ᴘ   |   T ᴛ    |           |         |  Κ κ  |
 | Stop        | Tenuis  |  B ʙ   |   D ᴅ    |           |         |  G ɢ  |
 | Affricative |Aspirated|        |   C c    |    Ч ч    |   Ч ч   |       |
