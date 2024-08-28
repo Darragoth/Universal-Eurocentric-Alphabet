@@ -16,5 +16,6 @@
 | Stop/Affricate| Tenuis |  P ᴘ   |   T ᴛ    |   Ч ч   |  Κ κ  |
 | Stop/Affricate| Voiced |  B ʙ   |   D ᴅ    |   🝘 џ   |  G ɢ  |
 | Stop/Affricate| Tense  |  Ƥ ᴘ◌֜  |   T̉ ᴛ◌֜   |   Ч◌֜ ч◌֜ |  Ƙ ƙ  |
-| Fricative     |        |  F ꜰ   |   S s    |         |       |
+| Fricative     | Tenuis |  F ꜰ   |   S s    |         |       |
+| Fricative     | Tense  |        |   S◌֜ s◌֜  |         |       |
 | Approximant   |        |  ꟽ ᥕ  | L ʟ/R ʀ  |   J ᴊ   |  H н  |
