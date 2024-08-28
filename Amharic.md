@@ -20,4 +20,4 @@
 | Fricative     | Voiced   |        |   Z z    |   Ж ж   |       |
 | Fricative     | Ejective |        |   S◌֜ s◌֜  |         |       |
 | Approximant   |          |  ꟽ ᥕ  |   L ʟ    |   J ᴊ   |  H н  |
-| Approximant   |          |        |   R ʀ    |         |       |
+| Trill         |          |        |   R ʀ    |         |       |
