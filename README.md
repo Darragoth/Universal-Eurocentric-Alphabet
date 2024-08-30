@@ -214,7 +214,7 @@ Extremely rare in vowels. Analysed as aspiration in consonants, thus denoted as 
 ### Click consonants
 Near exclusive to South-African Khoisan and Bantoid langs. Also present in three East-African langs: Sandawe, Hadza, and Dahalo. Denoted with a ring above, ◌̊: {T}➝{T̊}.
 ### Labialization and doubly articulated consonants
-Labialization is analyzed as a consonant pair, Cꟽ, where {ꟽ} stands for [w], [ʍ], or [ɥ]. If the difference is phonemic, [ʍ] is transcribed as a labialized voiceless velar fricative, {Xꟽ} [xw] and [ɥ] as a palatalized bilabial approximant {̡ꟽ} [wʲ]. 
+Labialization is analyzed as a consonant pair, Cꟽ, where {ꟽ} stands for [w], [ʍ], or [ɥ]. If the difference is phonemic, [ʍ] is transcribed as a labialized voiceless velar fricative, {Xꟽ} [xw] and [ɥ] as a palatalized bilabial approximant {̡ꟽ} [wʲ]. In most cases, the velarization in [w] is rather weak, therefore it's best analysed as a bilabial approximant [β̞].
 
 The case of [ɧ] is rather straighforward. Most commonly among Swedish dialects it's sufficient to describe as a ʃ͡x, which is further confirmed by comparing Swedish words to their counterparts in other Germanic languages such as "to shoot" *skjuta* [ɧʊ:ta] to *schießen* [ʃi:ssən] to *shoot* [ʃʊ:t]. Similarly, "to shine" *skina* [ɧi:na] to *scheinen* [ʃainən] to *shine* [ʃain].
 ### Marginal examples
