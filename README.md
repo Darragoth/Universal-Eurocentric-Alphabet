@@ -28,16 +28,16 @@ The vowel systems of practically all languages can be described with three princ
 
 Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, notably, romanized as 'ae'. Indeed, the phonemes seem to be in a process of merging.
 
-**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach. These five languages also distinguish a central vowel {Y} [ɨ], which is transcribed in Latin with 'y'. Interestingly, Slovaks transcribe [æ] with 'Ä'.
+**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach. These five languages also distinguish a central vowel {Y} [ɨ], which is transcribed in Latin with 'y'. Interestingly, Slovaks transcribe [æ] with 'Ä'. The rest of Slavs have dedicated letters for the 3 or 4 palatals.
 
 | English | Slovene | Croatian | Czech  | Slovak  | Polish    | Ukrainian | Russian | Belarusian | Bulgarian | Serbian | Macedonian |          |
 | :---    | :---:   | :---:    | :---:  | :---:   | :---:     | :---:     | :---:   | :---:      | :---:     | :---:   | :---:      | :---     |
-| smell   | vonj    | njuh     | ňuch   | ňuch    | węch      | нюх       | нюх     | нюх        | нюх       | њух     | мирис      |          |
-| IPA     | voɲ     | ɲʉx      | ɲʉx    | ɲʉx     | vex       | ɲʉx       | ɲʉx     | ɲʉx        | ɲʉx       | ɲʉx     | miris      | [u]➝[ʉ] |
+| smell   | *vonj*  | njuh     | ňuch   | ňuch    | *węch*    | нюх       | нюх     | нюх        | нюх       | њух     | *мирис*    |          |
+| IPA     | *voɲ*   | ɲʉx      | ɲʉx    | ɲʉx     | *vex*     | ɲʉx       | ɲʉx     | ɲʉx        | ɲʉx       | ɲʉx     | *miris*    | [u]➝[ʉ] |
 | aunt    | tetka   | tetka    | tetka  | tetka   | ciocka    | тітка     | тётка   | цётка      | тетка     | тетка   | тетка      |          |
 | IPA     | tetka   | tetka    | tetka  | tetka   | t͡sʲɵt͡sʲka | tʲitka    | tʲɵtka  | t͡sʲɵtka    | tetka     | tetka   | tetka      | [o]➝[ɵ] |
 | will    | volja   | volja    | vůle   | vôľa    | wola      | воля      | воля    | воля       | воля      | воља    | волја      |          |
-| IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | voʎæ       | [ä]➝[æ] |
+| IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | volja      | [ä]➝[æ] |
 
 Rectangular 6-vowel system is present across major branches and families in:
 - **Indo-Aryan**: Sinhala
@@ -222,7 +222,7 @@ Chiquihuitlán Mazatec might be the ultimate example of non-standard phonation. 
 - breathy-modal-creaky for the nasals, [m̥][m][m̰], [n̥][n][n̰], [ɲ̥][ɲ][ɲ̰].
 - breathy-modal-nasal for the approximants, [ȷ̊][j][j̃] and [ʍ][w][w̰].
 ## General issues and challenges
-### The issue of allophony
+### Allophony
 Color coding on the chart demonstrates the most common allophones. The orthography of a language should include letters requiring the least amount of inputs without sacrificing graphic harmony and phonemic precision. For example, in English [ɸ] would be transcribed as {F} or {P} instead of {Ⴔ}, or in Russian and Turkish [d̪] would be transcribed {D} instead of {Ð}, or in Arabic and Iranian [χ] would be transcribed {X} instead of {Ӿ}.
 ### Division of the world by Y & J
 Primarily thanks to colonialist policies of the English, French, Portuguese, and Spanish most of the world associates upsilon, 'Y', with the palatal approximant, [j], while in the Nordic countries and Albanian it stands for the rounded close front vowel, [y], while five Slavic langs, Welsh, and Guarani use it to transcribe the unrounded close central vowel, [ɨ]. In contrast, 'J' is used to transcribe various sounds in the world's languages such as [dʒ] in English and its previously colonial subjects, [ʒ] in French, Portuguese and Turkish, [x] in Spanish, [ɟ] in Yoruba and Swahili, and finally [j] in all other Germanic, Uralic, Slavic, Baltic langs, and Italian.
