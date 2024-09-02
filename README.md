@@ -28,16 +28,18 @@ The vowel systems of practically all languages can be described with three princ
 
 Not all **Koreans** distinguish ㅔ[e] from ㅐ[ɛ], latter of which is often, notably, romanized as 'ae'. Indeed, the phonemes seem to be in a process of merging.
 
-**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' as in 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding vowel into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach. These five languages also distinguish a central vowel {Y} [ɨ], which is transcribed in Latin with 'y'. Interestingly, Slovaks transcribe [æ] with 'Ä'. The rest of Slavs have dedicated letters for the 3 or 4 palatals.
+**Slavs** stand at a precipice. Arguably, palatalization tends to front the subsequent central vowel [ä]➝[æ] and back vowels, [o]➝[ɵ], [u]➝[ʉ], [ɨ]➝[i]. The Polish solved this by writing 'CiV' such as 'niania' [nʲænʲæ], 'siostra' [sʲɵstra], and 'dniu' [dnʲʉ]. Russians took an opposite approach using the Cyrillic script and embedded the process of palatalizing the preceding consonant into five letters, Я [ʲæ], Ё [ʲɵ], Ю [ʲʉ], Е [ʲe], И [ʲi] such as 'няня' [nʲænʲæ], 'сёстра' [sʲɵstra], and 'дню' [dnʲʉ]. Ukrainians, Belarusians, and Bulgarians took a similar approach. These five languages also distinguish a central vowel {Y} [ɨ], which is transcribed in Latin with 'y'. Interestingly, Slovaks transcribe [æ] with 'Ä'. The rest of Slavs have dedicated letters for the 3 or 4 palatals.
 
-| English | Slovene | Croatian | Czech  | Slovak  | Polish    | Ukrainian | Russian | Belarusian | Bulgarian | Serbian | Macedonian |          |
-| :---    | :---:   | :---:    | :---:  | :---:   | :---:     | :---:     | :---:   | :---:      | :---:     | :---:   | :---:      | :---     |
-| smell   | *vonj*  | njuh     | ňuch   | ňuch    | *węch*    | нюх       | нюх     | нюх        | нюх       | њух     | *мирис*    |          |
-| IPA     | *voɲ*   | ɲʉx      | ɲʉx    | ɲʉx     | *vex*     | ɲʉx       | ɲʉx     | ɲʉx        | ɲʉx       | ɲʉx     | *miris*    | [u]➝[ʉ] |
-| aunt    | tetka   | tetka    | tetka  | tetka   | ciocka    | тітка     | тётка   | цётка      | тетка     | тетка   | тетка      |          |
-| IPA     | tetka   | tetka    | tetka  | tetka   | t͡sʲɵt͡sʲka | tʲitka    | tʲɵtka  | t͡sʲɵtka    | tetka     | tetka   | tetka      | [o]➝[ɵ] |
-| will    | volja   | volja    | vůle   | vôľa    | wola      | воля      | воля    | воля       | воля      | воља    | волја      |          |
-| IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola      | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | volja      | [ä]➝[æ] |
+| English | Slovene | Croatian | Czech  | Slovak  | Polish   | Ukrainian | Russian | Belarusian | Bulgarian | Serbian | Macedonian |          |
+| :---    | :---:   | :---:    | :---:  | :---:   | :---:    | :---:     | :---:   | :---:      | :---:     | :---:   | :---:      | :---     |
+| smell   | *vonj*  | njuh     | ňuch   | ňuch    | *węch*   | нюх       | нюх     | нюх        | нюх       | њух     | *мирис*    |          |
+| IPA     | *voɲ*   | ɲʉx      | ɲʉx    | ɲʉx     | *vew̃x*   | ɲʉx       | ɲʉx     | ɲʉx        | ɲʉx       | ɲʉx     | *miris*    | [u]➝[ʉ] |
+| aunt    | tetka   | tetka    | tetka  | tetka   | ciocka   | тітка     | тётка   | цётка      | тетка     | тетка   | тетка      |          |
+| IPA     | tetka   | tetka    | tetka  | tetka   | t͡sʲɵt͡ska | tʲitka    | tʲɵtka  | t͡sʲɵtka    | tetka     | tetka   | tetka      | [o]➝[ɵ] |
+| will    | volja   | volja    | vůle   | vôľa    | wola     | воля      | воля    | воля       | воля      | воља    | волја      |          |
+| IPA     | voʎæ    | voʎæ     | vu:le  | vʊoʎæ   | vola     | voʎæ      | voʎæ    | voʎæ       | voʎæ      | voʎæ    | volja      | [ä]➝[æ] |
+
+Writing 'CiV' is a decent compromise, since Slavic langs rarely exhibit signs of diphthongs beyond [Vj] like [aj] or [oj]. Transcribing the palatalization with front vowel letters, however, would be not only phonemically more accurate but also more efficient requiring only two inputs in 'ÇV' syllables like [ɲæ] instead of three, {ɴʌ} instead of 'nia' - or 'nja' for that matter, which also introduces ambivalence in placing the syllable break for example in 'melon', which is approximately [di.ɲa] across South Slavic languages, a likely interpretation by non-native speakers is [din.ja], if written 'dinja'. Of course, phonetically the most accurate transcription of palatalization would add an appendix to the consonant such as in {̡ɴ}, which would, again, require three inputs in 'ÇV' syllables such as [ɲæ]: {ɴ} & {̡◌} & {ᴀ} = {̡ɴᴀ}.
 
 Rectangular 6-vowel system is present across major branches and families in:
 - **Indo-Aryan**: Sinhala
@@ -56,16 +58,17 @@ Rectangular 8-vowel system that distinguishes *both* rounded front vowels, {Ʉ} 
 - **Uralic**: Hungarian, Finnish
 - **NW-Caucasian**: Chechen, Ingush
 
-Rectangular 8-vowel system that distinguishes *both* unrounded central or back vowels, {Y} or {Ⳟ}:
+Rectangular 8-vowel system that distinguishes *both* unrounded central or back vowels, {Y} & {Ⳟ}:
 - **Indo-Aryan**: Kashmiri
+- **Korean**: For some speakers
 
 Rectangular 9-vowel system that distinguishes *both* rounded front vowels {Ʉ} & {Ɵ}, and *one* unrounded central or back vowel, {Y} or {Ⳟ}:
 - **Slavic**: Russian, arguably, and probably Belarusian
 - **Turkic**: All but Uzbek
 - **Uralic**: Estonian, Mari, Udmurt, Moksha
 
-Rectangular 10-vowel system that distinguishes *both* rounded front vowels {Ʉ} & {Ɵ}, and *both* unrounded central or back vowels, {Y} or {Ⳟ}:
-- **Sinitic**: Wu languages
+Rectangular 10-vowel system that distinguishes *both* rounded front vowels {Ʉ} & {Ɵ}, and *both* unrounded central or back vowels, {Y} & {Ⳟ}:
+- **Sinitic**: Wu languages (Shanghainese, Suzhounese, Wengzhounese)
 
 #### Triangular vowel system
 
