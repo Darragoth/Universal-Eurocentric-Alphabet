@@ -158,9 +158,9 @@ A few langs like Acehnese, Dan (Mande), and Nasu (Loloish) distinguish *four* un
 ### Consonant Chart
 ![Consonant chart](Consonants_25-8-2024.jpeg)
 
-{H} and {‒} are unique. {H} is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension between sounds.
+{H} and {‒} are unique. {H} is best analyzed as the only voiceless approximant. Other approximants are always voiced. {H} does **not** have an inherent *place* or *manner* of articulation. Some linguists analyze it as a voiceless vowel, whose pronunciation is defined by the surrounding sounds. Similarly, the glottal stop, {‒} [ʔ], is simply a suspension between sounds. Correspondingly, the epiglottal consonants, {H̥} & {Ɨ̥}, have a wide range of articulations even within one language. 
 ### Uncommon phonemes
-Typeable with the central modifier key (◌̶ ) that adds a strikethrough bar to most base letters.
+Typeable with the central modifier key {◌̶ } that adds a strikethrough bar to most base letters. For example, inputting {◌̶ } and {K} outputs {₭}.
 
 **Uvular consonants**: several langs distinguish at least one uvular consonant, usually {₭} [q]. These are analysed in contrast to their velar counterparts:
 |        | Nasal | Plosive        | Fricative          |
@@ -180,7 +180,7 @@ Common among Native American, Semitic, Berberic, Iranian, Turkic, Caucasian, Tun
 
 **Bilabial Ⴔ [ɸ] & Ƃ [β] vs labiodental F [f] & B [v] fricatives**: common allophones. The largest language by native speakers to contrast the two pairs is Ewe at 4 mil (2021).
 
-**Labial trills, Γ [ʙ̥] & Ɐ [ʙ]**: extremely rare. Present in Native American, Oceanic, Bantoid, Papuan, and Tibeto-Burman langs.
+**Labial trills, Γ [ʙ̥] & Ɐ [ʙ]**: extremely rare. Present in some Native American, Oceanic, Bantoid, Papuan, and Tibeto-Burman langs.
 
 ## Articulatory Modification
 Most languages exhibit certain geographically distinctive features, which allow a kind of grouping. This becomes evident, when comparing the *places of articulation* (PoA) of their phonemes. Three of them are practically universal: labial, alveolar, and velar. Distinguishing consonants at dental PoA in contrast to its surrounding PoA, labial and alveolar, seems to occur sporadically across language families and regions, which excludes it as a grouping factor. The post-alveolar fricatives, {Ш} [ʃ], {Ж} [ʒ] and affricates {Ч} [tʃ], {ⵖ} [dʒ]  are near universal, hence they have dedicated symbols. Other uvular phonemes than {₭} [q] are rare, although {₭} [q] appears often among different language families. This leaves three distinctive PoA: palatal, retroflex, and epiglottal (see velarization) - analysed below.
@@ -217,7 +217,7 @@ Near exclusive to South-African Khoisan and Bantoid langs. Also present in three
 ### Labialization and doubly articulated consonants
 Labialization is analyzed as a consonant pair, Cꟽ, where {ꟽ} stands for [w], [ʍ], or [ɥ]. If the difference is phonemic, [ʍ] is transcribed as a labialized voiceless velar fricative, {Xꟽ} [xw] and [ɥ] as a palatalized bilabial approximant {̡ꟽ} [wʲ]. In most cases, the velarization in [w] is rather weak, therefore it's best analysed as a bilabial approximant [β̞].
 
-The case of [ɧ] is rather straighforward. Most commonly among Swedish dialects it's sufficient to describe as a ʃ͡x, which is further confirmed by comparing Swedish words to their counterparts in other Germanic languages such as "to shoot" *skjuta* [ɧʊ:ta] to *schießen* [ʃi:ssən] to *shoot* [ʃʊ:t]. Similarly, "to shine" *skina* [ɧi:na] to *scheinen* [ʃainən] to *shine* [ʃain].
+The case of [ɧ] is rather straighforward. Most commonly among Swedish dialects it's sufficient to describe as a ʃ͡x, which is further confirmed by comparing Swedish words to their counterparts in other Germanic languages such as "to shoot" *skjuta* [ɧʊ:ta] to *schießen* [ʃi:ssən] to *shoot* [ʃʊ:t]. Similarly, "to shine" *skina* [ɧi:na] to *scheinen* [ʃainən] to *shine* [ʃain]. Safe to say, [ɧ] is a particular articulation of the voiceless post-alveolar fricative, {Ш}.
 ### Marginal examples
 Chiquihuitlán Mazatec might be the ultimate example of non-standard phonation. It contrasts four sets of vowels: modal, nasal, breathy, and creaky voiced as well as 4 level tones and 13 different contour tones. There's also two different tertiary phonation contrasts for some consonants:
 - breathy-modal-creaky for the nasals, [m̥][m][m̰], [n̥][n][n̰], [ɲ̥][ɲ][ɲ̰].
