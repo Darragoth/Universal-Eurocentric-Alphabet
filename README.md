@@ -99,3 +99,4 @@ Vsı ̡ʟᴜᴅı ʀoᴅᴇᴛ sᴇ svoʙoᴅɴı ı ʀᴀvɴı v ᴅosᴛoᴊɴ
 
 [The Map](https://www.google.com/maps/d/viewer?hl=fi&mid=1bwVF83mYLI8nQO9N-99FfQoBWDlmaaE&ll=18.001273675835744%2C0&z=1)
 ## Keyboard Configuration
+![Jwerch Keyboard Configuration](Jwerch Keyboard Configuration.png)
