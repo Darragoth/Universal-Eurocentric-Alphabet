@@ -20,9 +20,7 @@ The vowel systems of practically all languages can be described with three princ
 | **Open-mid**  |          |          | --- | **Open-mid**  | *Ɛ*   |         | *Ɔ*   | --- | **Open-mid**  |         |
 | **Open**      |    Ʌ     |    A     | --- | **Open**      |       |    A    |       | --- | **Open**      |    A    |
 
-### Vowel systems
-
-#### Other vowel systems
+### Problematic vowel systems
 
 **Khmer** has 10 base vowels.
 | French        | Front   | Back  | --- | Khmer         | Central | Front | Central |
@@ -30,15 +28,15 @@ The vowel systems of practically all languages can be described with three princ
 | **Closed**    | I \| Ʉ  |   U   | --- | **Closed**    |    I    |   Y   |    U    |
 | **Close-mid** | E \| Ɵ  |   O   | --- | **Close-mid** |    E    |       |    O    |
 | **Mid**       |         |       | --- | **Mid**       |         |   Ⳟ   |         |
-| **Open-mid**  |   Ɛ     |   Ɔ   | --- | **Open-mid**  |    Ɛ    |       |    Ɔ    |
+| **Open-mid**  | Ɛ \| Э  |   Ɔ   | --- | **Open-mid**  |    Ɛ    |       |    Ɔ    |
 | **Open**      |   Ʌ     |   A   | --- | **Open**      |    A    |       |    Ʌ    |
 
 ### Transphonologization
-Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ (toggle) and ◌̣̇, respectively. On keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will produce problems with rendering.
+Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ , ◌̣̇, respectively. On the keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will produce problems with rendering.
 
-Tonality
-- vertical line above {◌̄} for a high tone
-- vertical line below {◌̠} for a low tone
+**Tonality**
+- macron above {◌̄} for a mid tone
+- superscript bridge {◌̠} for a high tone
 - acute accent {◌́} for a rising tone
 - grave accent {◌̀} for a falling tone
 - caron {◌̌} for a dipping tone
@@ -72,7 +70,7 @@ Typeable with the central modifier key {◌̶ } that adds a strikethrough bar to
 **Labial trills, Γ [ʙ̥] & Ɐ [ʙ]**: extremely rare. Present in some Native American, Oceanic, Bantoid, Papuan, and Tibeto-Burman langs.
 
 ## Articulatory Modification
-Most languages exhibit certain geographically distinctive features, which allow a kind of grouping. This becomes evident, when comparing the *places of articulation* (PoA) of their phonemes. Three of them are practically universal: labial, alveolar, and velar. Distinguishing consonants at dental PoA in contrast to its surrounding PoA, labial and alveolar, seems to occur sporadically across language families and regions, which excludes it as a grouping factor. The post-alveolar fricatives, {Ш} [ʃ], {Ж} [ʒ] and affricates {Ч} [tʃ], {ⵖ} [dʒ]  are near universal, hence they have dedicated symbols. Other uvular phonemes than {₭} [q] are rare, although {₭} [q] appears often among different language families. This leaves three distinctive PoA: palatal, retroflex, and epiglottal (see velarization) - analysed below.
+Most languages exhibit certain geographically distinctive features, which allow a kind of grouping. This becomes evident, when comparing the *places of articulation* (PoA) of their phonemes. Three of them are practically universal: labial, alveolar, and velar. Distinguishing consonants at dental PoA in contrast to its surrounding PoA, labial and alveolar, seems to occur sporadically across language families and regions, which excludes it as a grouping factor. The post-alveolar fricatives, {Ш} [ʃ], {Ж} [ʒ] and affricates {Ч} [tʃ], {ⵖ} [dʒ]  are near universal, hence they have dedicated symbols. Other uvular phonemes than {₭} [q] are rare, although {₭} [q] appears often among different language families. This leaves three distinctive PoA: palatal, retroflex, and guttural (see velarization).
 
 In some cases, there is a distinctive *manner of articulation*. [Ejective](https://en.wikipedia.org/wiki/Ejective_consonant) and [implosive](https://en.wikipedia.org/wiki/Implosive_consonant) consonants constitute the glottalic consonants. There is also the issue of contrastive non-modal voicing of vowels. [Creaky-voiced](https://en.wikipedia.org/wiki/Creaky_voice) vowels are analysed as glottalic vowels. [Breathy-voicing](https://en.wikipedia.org/wiki/Breathy_voice) is analysed as [aspiration](https://en.wikipedia.org/wiki/Aspirated_consonant) in consonants. A few langs, however, contrast two sets of vowels, modal voiced and breathy voiced. Finally, there are the elusive click consonants in some African langs.
 
@@ -94,9 +92,3 @@ Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjen
 ### Transliteration
 Vsı ̡ʟᴜᴅı ʀoᴅᴇᴛ sᴇ svoʙoᴅɴı ı ʀᴀvɴı v ᴅosᴛoᴊɴosᴛı ı ᴘʀᴀvᴀx. Oɴı sᴜᴛ oʙᴅᴀʀᴊᴇɴı ʀᴀzᴜᴍoᴍ ı svıᴇsᴛᴊᴜ ı ıᴍᴀᴊᴜᴛ ᴘosᴛᴜᴘᴀᴛı ᴊᴇᴅıɴ κ ᴅʀᴜԍoᴍᴜ v ᴅᴜxᴜ ʙʀᴀcᴛvᴀ.
 (Iz Uɴıvᴇʀsᴀʟɴoᴊ Dᴇκʟᴀʀᴀcıᴊᴇ Pʀᴀv Чʟovıᴇκᴀ, чʟᴇɴoκ 1)
-## Phonetic Super Families
-![The Map](Phonetic_Super_Families.jpeg)
-
-[The Map](https://www.google.com/maps/d/viewer?hl=fi&mid=1bwVF83mYLI8nQO9N-99FfQoBWDlmaaE&ll=18.001273675835744%2C0&z=1)
-## Keyboard Configuration
-![Jwerch Keyboard Configuration](Jwerch Keyboard Configuration.png)
