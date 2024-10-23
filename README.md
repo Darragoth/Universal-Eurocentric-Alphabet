@@ -36,7 +36,7 @@ Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalizatio
 
 **Tonality**
 - macron above {◌̄} for a mid tone
-- superscript bridge {◌̠} for a high tone
+- superscript bridge {◌͆} for a high tone
 - acute accent {◌́} for a rising tone
 - grave accent {◌̀} for a falling tone
 - caron {◌̌} for a dipping tone
