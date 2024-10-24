@@ -3,10 +3,10 @@
 
 The official IPA (International Phonetics Association) symbols are useful for academic accuracy, but utterly useless for practical writing purposes like an alphabet of a language. To represent every base vowel of, practically, all languages the Standard Latin Alphabet with 6 letters generally used for vowels (A, E, I, U, O, Y) would only need another 6 additional vowel letters: Ʌʌ, Ɵɵ, Ʉᵾ, Ɔɔ, Ɛɛ and Ⳟⳟ. Marginal cases would be covered by adding two more vowel letters: Ұ & Э. Similarly, 46 base consonants sufficiently describe the sounds of the vast majority of the world's languages.
 ## Notable features
-- Latin-Greek-Cyrillic-based and IPA inspired alphabet with 14 vowels and 46 consonants and 9 articulatory modifiers constituting altogether about 300 possible combinations or, independent graphemes.
+- Latin-Greek-Cyrillic-based and IPA inspired alphabet with 14 vowels and 46 consonants and 9 articulatory modifiers constituting altogether about 300 possible combinations or, independent graphemes (excluding tonemes).
 - Used to write every language in the past, present and, hopefully, future.
 - Keyboard configuration: All 60 base letters configurable on most QWERTY and AZERTY variants, of which 24 require two inputs.
-- All 300 letters typeable with not more than 3 inputs using 3 modifier keys.
+- All 300 letters typeable with not more than 3 inputs using 3 modifier keys, though about 240 should suffice.
 - All novel letters were designed to require the *least number of inputs* without sacrificing graphic harmony and unity between the letters.
 - The sounds represented by each letter are the initial sounds of the things they depict, using the acrophonic principle.
 ## Vowels
