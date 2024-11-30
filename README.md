@@ -12,17 +12,17 @@ The official IPA (International Phonetics Association) symbols are useful for ac
 ## Vowels
 The vowel systems of practically all languages can be described with three principal categories: rectangular, triangular, and vertical. {Ʉ} & {Ɵ} occur often as pairs. Same is often true for {Y} & {Ⳟ} and {Ɛ} & {Ɔ}. Extremely rarely does one language distinguish both pairs, {Ʉ} & {Ɵ} and {Ɛ} & {Ɔ}. 
 
-| Rectangular   | Front    | Back     | --- | Triangular    | Front | Central | Back  | --- | Vertical      | Central |
-| :---          | :---:    | :---:    | --- | :---          | :---: | :---:   | :---: | --- | :---          | :---:   |
-| **Close**     | I \| *Ʉ* | *Y* \| U | --- | **Closed**    | I     |   *Y*   | U     | --- | **Closed**    |    Y    |
-| **Close-mid** |          |          | --- | **Close-mid** | E     |         | O     | --- | **Close-mid** |         |
-| **Mid**       | E \| *Ɵ* | *Ⳟ* \| O | --- | **Mid**       |       |   *Ⳟ*   |       | --- | **Mid**       |   *Ⳟ*   |
-| **Open-mid**  |          |          | --- | **Open-mid**  | *Ɛ*   |         | *Ɔ*   | --- | **Open-mid**  |         |
-| **Open**      |    Ʌ     |    A     | --- | **Open**      |       |    A    |       | --- | **Open**      |    A    |
+| Rectangular   | Front    | Back     | - | Triangular    | Front | Central | Back  | - | Vertical      | Central |
+| :---          | :---:    | :---:    | - | :---          | :---: | :---:   | :---: | - | :---          | :---:   |
+| **Close**     | I \| *Ʉ* | *Y* \| U | - | **Closed**    | I     |   *Y*   | U     | - | **Closed**    |    Y    |
+| **Close-mid** |          |          | - | **Close-mid** | E     |         | O     | - | **Close-mid** |         |
+| **Mid**       | E \| *Ɵ* | *Ⳟ* \| O | - | **Mid**       |       |   *Ⳟ*   |       | - | **Mid**       |   *Ⳟ*   |
+| **Open-mid**  |          |          | - | **Open-mid**  | *Ɛ*   |         | *Ɔ*   | - | **Open-mid**  |         |
+| **Open**      |    Ʌ     |    A     | - | **Open**      |       |    A    |       | - | **Open**      |    A    |
 
 ### Problematic vowel systems
 
-**Khmer** has 10 base vowels.
+**Khmer** and **French** both distinguish 10 base vowels.
 | French        | Front   | Back  | --- | Khmer         | Central | Front | Central |
 | :---          | :---:   | :---: | --- | :---          | :---:   | :---: | :---:   |
 | **Closed**    | I \| Ʉ  |   U   | --- | **Closed**    |    I    |   Y   |    U    |
@@ -32,7 +32,7 @@ The vowel systems of practically all languages can be described with three princ
 | **Open**      |   Ʌ     |   A   | --- | **Open**      |    A    |       |    Ʌ    |
 
 ### Transphonologization
-Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌ , ◌̣̇, respectively. On the keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will produce problems with rendering.
+Diacritics representing [nasalization](https://en.wikipedia.org/wiki/Nasalization), [tone](https://en.wikipedia.org/wiki/Tone_(linguistics)), and [stress](https://en.wikipedia.org/wiki/Stress_(linguistics))/[pitch](https://en.wikipedia.org/wiki/Pitch-accent_language) are typeable with the upper modifier key (◌̣̌≀): ◌̰̃, ◌̭̌, ◌̣̇, respectively. On the keyboard, tone diacritics have a toggleable priority, since they share the horizontal numerical keys with numbers. Nasalization and stress/pitch are binary features (on or off). At least one of these three features is phonemic in about half of the world's langs. Depending on the selected language one of these features is configured to first priority for the modifier key: Tone toggle for Mandarin, nasalisation for Hindi, and stress/pitch for Russian (should they care to mark it since it's phonemic) for example. One grapheme box (the space a symbol occupies on a row) fits two diacritics, one above and one below. Trying to fit any more will produce problems with rendering.
 
 **Tonality**
 - macron above {◌̄} for a mid tone
@@ -61,11 +61,11 @@ Typeable with the central modifier key {◌̶ } that adds a strikethrough bar to
 
 **Lateral alveolar fricatives, Ꞩ [ɬ] & Ƶ [ɮ]**: Common among Bantoid, Tibeto-Burman, Zhuang, Hmongic, Native American, Caucasian langs and Welsh.
 
-**Lateral velar/uvular approximant [ʟ] or velarized alveolar approximant [ɫ], ᖶ**: Somewhat rare excluding allophony e.g. before back vowels. Present in Kurdish, Albanian, Papuan langs, Berberic, and maybe Turkish.
+**Lateral velar/uvular approximant [ʟ] or velarized alveolar approximant [ɫ], ᖶ**: Somewhat rare excluding allophony e.g. before back vowels. Phonemic in Kurdish, Albanian, Papuan langs, Berberic, and maybe Turkish.
 
 **Voiceless alveolar trill, ᖉ [r̥]**: a rare gem. Present in Tibetan, Chechen, Ingush, Welsh, Moksha, and possibly Icelandic.
 
-**Bilabial Ⴔ [ɸ] & Ƃ [β] vs labiodental F [f] & B [v] fricatives**: common allophones. The largest language by native speakers to contrast the two pairs is Ewe at 4 mil (2021).
+**Bilabial Ⴔ [ɸ] & Ƃ [β] vs labiodental F [f] & B [v] fricatives**: common allophones. The two largest languages by native speakers to contrast the two pairs is Ewe at 4 mil (2021) and Tsonga at 3.7 mil (2011).
 
 **Labial trills, Γ [ʙ̥] & Ɐ [ʙ]**: extremely rare. Present in some Native American, Oceanic, Bantoid, Papuan, and Tibeto-Burman langs.
 
@@ -90,5 +90,9 @@ The articulatory modifications are typeable on the keyboard with the lower modif
 Vsi ljudi rodęt sę svobodni i råvni v dostojnosti i pravah. Oni sųt obdarjeni råzumom i svěstjų i imajųt postųpati jedin k drugomu v duhu bratstva.
 (Iz Universalnoj Deklaracije Prav Člověka, členòk 1)
 ### Transliteration
-Vsı ̡ʟᴜᴅı ʀoᴅᴇᴛ sᴇ svoʙoᴅɴı ı ʀᴀvɴı v ᴅosᴛoᴊɴosᴛı ı ᴘʀᴀvᴀx. Oɴı sᴜᴛ oʙᴅᴀʀᴊᴇɴı ʀᴀzᴜᴍoᴍ ı svıᴇsᴛᴊᴜ ı ıᴍᴀᴊᴜᴛ ᴘosᴛᴜᴘᴀᴛı ᴊᴇᴅıɴ κ ᴅʀᴜԍoᴍᴜ v ᴅᴜxᴜ ʙʀᴀcᴛvᴀ.
+Vsı ̡ʟᴜᴅı ʀoᴅᴇᴛ sᴇ svoʙoᴅɴı ı ʀᴀvɴı v ᴅosᴛoᴊɴosᴛı ı ᴘʀᴀvᴀx. Oɴı sᴜᴛ oʙᴅᴀʀᴊᴇɴı ʀᴀzᴜᴍoᴍ ı svıᴇsᴛᴊᴜ ı ıᴍᴀᴊᴜᴛ ᴘosᴛᴜᴘᴀᴛı ᴊᴇᴅıɴ κ ᴅʀᴜԍoᴍᴜ v ᴅᴜxᴜ ʙʀᴀᴛsᴛvᴀ.
 (Iz Uɴıvᴇʀsᴀʟɴoᴊ Dᴇκʟᴀʀᴀcıᴊᴇ Pʀᴀv Чʟovıᴇκᴀ, чʟᴇɴoκ 1)
+
+## Keyboard Configuration
+
+![Jwerch Keyboard Configuration.jpg.jpg](https://github.com/Darragoth/Universal-Eurocentric-Alphabet/blob/5ab172d0fa0b1b6ade0f920efe7a78069a53e58e/Jwerch%20Keyboard%20Configuration.png)
